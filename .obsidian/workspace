@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "46ba980a4a51ab38",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e45f88048f2b195",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mindboard/Events/The Anomaly.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0abc6ea747f2be4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb0a4651dc0e377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b144f0c3b1d0c7e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac6609ea11b4045d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03d77a9c80017bfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c44b0f8a2f75af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61cd674c9d7286df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mindboard/Events/The Anomaly.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9e45f88048f2b195",
+  "lastOpenFiles": [
+    "Mindboard/Events/The Anomaly.md",
+    "Mindboard/Characters/Jasper.md",
+    "Chapters/Chapter 1.md",
+    "Mindboard/The Centaurian Empire/Beginning.md",
+    "Mindboard/Ideology/Philosophy Of The Universe.md"
+  ]
+}
