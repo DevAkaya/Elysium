@@ -1,8 +1,7 @@
 Chapter One
 
-The Ressiance 
+The Resonance 
 
 
- Eons ago when humanity on earth was on it's last straw and the beauty of earth was retreating for good, a civilisiton reached reached out and offered earth 
-	-dsf
+ Eons ago when humanity on earth was on its last straw and the beauty of earth was retreating for good, a civilisation reached out and offered earth 
 	

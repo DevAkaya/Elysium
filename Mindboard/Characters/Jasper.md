@@ -1,5 +1,5 @@
 
-So who is jasper then? Jasper is a 16 year old teenage boy who's a computational physics student studying at the Institute of Stellaris. Japser is someone destined for a great future ahead being blessed in almost all departments.
+Description: Jasper is a 16-year-old teenage boy who's a computational physics' student studying at the Institute of Stellaris. Japser is someone destined for a great future ahead, being blessed in almost all areas of life, although Jasper is very open-minded he's an extreme patriot of Alterra that is angered by the slight objection to his homeland.
 
 
 People in his local area and beyond all know Japser for his great theories he's made on the universe and the field of computation. After the catastrophic event on the planet Scape, Jasper through [yet to be compiled on the story line] gets invited to the HQ of Alterra's Scientific Agency where he meets some of Alterra's greatest mind to solve and find clues to the anomaly found on Scape's capital OreScape which caused the sentinels on that planet to become hostile. Along the way Jasper discovers many deep secrets to Alterra and in the process causes even more issues for people (the part which pisses off the audience but keeps them engaged)
