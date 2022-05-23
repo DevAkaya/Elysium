@@ -7,12 +7,8 @@
         "id": "9e45f88048f2b195",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mindboard/Characters/BossmxnRyzen.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindboard/Characters/BossmxnRyzen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +84,14 @@
   },
   "active": "9e45f88048f2b195",
   "lastOpenFiles": [
+    "Civilisations/Akayans/Beginning.md",
+    "Draft PREVIEW/Annotation.md",
+    "Draft PREVIEW/Destuction Of The Paradise System.md",
     "Mindboard/Characters/BossmxnRyzen.md",
-    "Mindboard/Characters/Jasper.md",
+    "Mindboard/Star Systems/Stellar System.md",
     "Chapters/Chapter 1.md",
     "Mindboard/Ideology/Philosophy Of The Universe.md",
-    "Civilisations/The Centaurian Empire/Beginning.md",
+    "Mindboard/Characters/Jasper.md",
     "Mindboard/Events/The Anomaly.md"
   ]
 }

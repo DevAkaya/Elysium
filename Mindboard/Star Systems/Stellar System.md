@@ -1,0 +1,1 @@
+The grand, the magnificent, the heart and center of Alterra, The Stellar System. This system built from the ground up showcases the supreme craftsmanship of Alterra. Within the dominion of the Stellar System lies 8 celestial bodies, each of them speaking a 1000 words of it's own.
