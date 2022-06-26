@@ -7,11 +7,7 @@ Unwilling to let go of their unjust ways and unlawful technologies, along with t
 More of the story line to be revealed soon…
 
 
-Jasper, Alterra's most celebrated scientist for his age, had made a new discovery. He was eager to share it with his friend, but his friend was not interested. "You need to live a little," his friend said. "This world is so much more than just science."
-
-  
-
-Jasper knew his friend was right, but he couldn't help but be excited about his discovery. He was sure it would change the world.
+Jasper, Alterra's most celebrated scientist for his age, had made a new discovery. He was eager to share it with his friend, but his friend was not interested. "You need to live a little," his friend said. "This world is so much more than just science." Jasper knew his friend was right, but he couldn't help but be excited about his discovery. He was sure it would change the world.
 
 
 The Sergeant turned around and told the boy "the people of Alterra are a proud and noble people who value honesty, justice, and peace. They are passionate about their world and will do whatever it takes to protect it. They are also a friendly and welcoming people, who are always willing to help those in need and all of us have a responsibility to uphold that even in our darkest times."
