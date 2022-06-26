@@ -5,3 +5,17 @@ The real world saw in awe some effects a simulated universe can cause. games all
 Unwilling to let go of their unjust ways and unlawful technologies, along with the illegitimate power source that upheld the heart of their Empire, the entire civilisation was wiped out by Ryzen, who was angered by the breaches into his universe and the broken covenant. Large structures could be soon falling into the abyss into energy. Vibrant lights across the cosmos dwindled and soon the Empire collapsed, leaving behind only the dormant technology and clues which would later be discovered by a civilisation called Alterra.
 
 More of the story line to be revealed soon…
+
+
+Jasper, Alterra's most celebrated scientist for his age, had made a new discovery. He was eager to share it with his friend, but his friend was not interested. "You need to live a little," his friend said. "This world is so much more than just science."
+
+  
+
+Jasper knew his friend was right, but he couldn't help but be excited about his discovery. He was sure it would change the world.
+
+
+The Sergeant turned around and told the boy "the people of Alterra are a proud and noble people who value honesty, justice, and peace. They are passionate about their world and will do whatever it takes to protect it. They are also a friendly and welcoming people, who are always willing to help those in need and all of us have a responsibility to uphold that even in our darkest times."
+
+  
+
+The Sergeant placed his hands on Jaspers shoulder and finished by saying "So never give up hope, no matter how dark things may seem, because Alterra and its people will always be here for you." The boy nodded in understanding before the Sergeant walked away, leaving him to his thoughts.

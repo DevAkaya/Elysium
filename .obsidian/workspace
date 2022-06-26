@@ -7,8 +7,12 @@
         "id": "9e45f88048f2b195",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Jasper generation.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jasper generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,14 +89,15 @@
   },
   "active": "9e45f88048f2b195",
   "lastOpenFiles": [
-    "Civilisations/Akayans/Beginning.md",
-    "Draft PREVIEW/Annotation.md",
+    "Jasper generation.md",
+    "Civilisations/The Centaurian Empire/Beginning.md",
+    "Mindboard/Ideology/Philosophy Of The Universe.md",
+    "Mindboard/Events/The Anomaly.md",
+    "Mindboard/Characters/Jasper.md",
+    "Mindboard/Star Systems/Stellar System.md",
+    "Draft PREVIEW/Chapter/Chapter 1.md",
     "Draft PREVIEW/Destuction Of The Paradise System.md",
     "Mindboard/Characters/BossmxnRyzen.md",
-    "Mindboard/Star Systems/Stellar System.md",
-    "Chapters/Chapter 1.md",
-    "Mindboard/Ideology/Philosophy Of The Universe.md",
-    "Mindboard/Characters/Jasper.md",
-    "Mindboard/Events/The Anomaly.md"
+    "Draft PREVIEW/Annotation.md"
   ]
 }

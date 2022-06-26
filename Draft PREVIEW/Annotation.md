@@ -1,4 +1,4 @@
-A blissful welcome to the dominion of law and order in this universe, Alterra. This civilization reached for the stars and beyond while the old ways of Earth and Mars caused them to dwindle in regression. 
+A blissful welcome to the dominion of law and order in this universe, Alterra. This civilization reached for the stars and beyond, while the old ways of Earth and Mars caused them to dwindle in regression. Alterra is now at an impending resonance of growth and events. Jasper Xavier is a teen with a great and blessed future ahead of him. 
 
 
 
