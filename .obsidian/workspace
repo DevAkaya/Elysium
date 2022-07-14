@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Draft PREVIEW/Chapter/Chapter 1.md",
+            "file": "Civilisations/The Centaurian Empire/Beginning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft PREVIEW/Chapter/Chapter 1.md",
+                "file": "Civilisations/The Centaurian Empire/Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "9e45f88048f2b195",
   "lastOpenFiles": [
+    "Civilisations/The Centaurian Empire/Beginning.md",
     "Draft PREVIEW/Chapter/Chapter 1.md",
     "Chapters/Chapter 1.md",
     "Jasper generation.md",
@@ -97,7 +98,6 @@
     "Mindboard/Events/The Anomaly.md",
     "Mindboard/Characters/Jasper.md",
     "Mindboard/Star Systems/Stellar System.md",
-    "ab5akk5xucfcmg3slcs5.png",
-    "Draft PREVIEW/Destuction Of The Paradise System.md"
+    "ab5akk5xucfcmg3slcs5.png"
   ]
 }
