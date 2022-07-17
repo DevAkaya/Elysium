@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Civilisations/Akaya/Prototype 2.md",
+            "file": "Civilisations/Alterra/Genesis.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Alterra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Civilisations/Akaya/Prototype 2.md",
+                "file": "Civilisations/Alterra/Genesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e45f88048f2b195",
+  "active": "b144f0c3b1d0c7e6",
   "lastOpenFiles": [
-    "Civilisations/Akaya/Prototype 1.md",
-    "Civilisations/Akaya/Prototype 2.md",
     "Draft PREVIEW/Chapter/Chapter 1.md",
+    "Civilisations/Alterra/Genesis.md",
+    "Civilisations/Akaya/Prototype 2.md",
+    "Civilisations/Akaya/Prototype 1.md",
     "Chapters/Chapter 1.md",
     "Jasper generation.md",
     "Mindboard/Characters/BossmxnRyzen.md",
     "Draft PREVIEW/Annotation.md",
     "Mindboard/Events/The Anomaly.md",
-    "Mindboard/Characters/Jasper.md",
-    "Mindboard/Star Systems/Stellar System.md"
+    "Mindboard/Characters/Jasper.md"
   ]
 }
