@@ -3,12 +3,12 @@ Citizens across the province arise to another day in Alterra. The sun and it's d
 (Picture of Stellaris)
   ![[ab5akk5xucfcmg3slcs5.png]]
 
-Millions, of citizens across the star system known as The Stellar System as part of their usual routine switch on their fusion lens. These are revolutionary eye contacts that allow Alterrans near full immersion into a technological world where many fulfill their wildest dreams, but before they do; a lot of them get their daily dose of Stellaris' largest influencer.. Elena
+Millions, of citizens across the star system known as The Stellar System as part of their usual routine switch on their fusion lens. These are revolutionary eye contacts that allow Alterrans near full immersion into a technological world where many fulfill their wildest dreams, but before they do; a lot of them get their daily dose of Stellaris' largest influencer… Elena
 
 
-“Right, let's get to work” Exclaimed Elena. The camera crew hustles and gets the place ready for her daily stream; Elena suspended 117 stories above the ground in her flat can’t help but gaze at the beautiful view her fans witness alongside her natural beauty and personality. ‘Hey, Christiane? Wanna tell me what’s so interesting about that wall you’ve chosen?’ Elena was very unamused. The frightened camera operator turns to head her head to Elena and mutters, ‘you in front of that wall is enough…’ 
+“Right, let's get to work” Exclaimed Elena. The camera crew hustles and gets the place ready for her daily stream; Elena suspended 117 stories above the ground in her flat can’t help but gaze at the beautiful view her fans witness daily alongside her natural beauty and personality. ‘Hey, Christiane? Care to tell me what’s so interesting about that wall you’ve chosen?’ Elena was very unamused, prompting the frightened camera operator turns her head reluctantly to Elena and mutter, ‘you in front of that wall is enough…’ 
 
-Elena tosses her hair walking to it saying, “Aww, you’re a sweet girl. Also true, but wrong. Simple is boring, the secret is the perfect angle. See? No distractions, no moving ships in orbit; just me and my one billion fans.”
+ Elena *(rolling her eyes)* tosses her hair walking to spot, with confidence exclaims, “Aww, you’re a sweet girl. Also true, but wrong. Simple is boring, the secret is the perfect angle. See? No distractions, no moving ships in orbit; just me… and my one billion fans.”
 
 
 
