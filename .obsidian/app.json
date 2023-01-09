@@ -3,5 +3,6 @@
   "livePreview": true,
   "spellcheck": true,
   "communityPluginSortOrder": "release",
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": true
 }

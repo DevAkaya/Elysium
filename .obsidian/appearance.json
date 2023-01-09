@@ -1,4 +1,9 @@
 {
-  "baseFontSize": 16,
-  "accentColor": ""
+  "baseFontSize": 17,
+  "accentColor": "",
+  "interfaceFontFamily": "Raleway",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "translucency": true
 }
