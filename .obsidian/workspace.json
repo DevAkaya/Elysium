@@ -11,12 +11,8 @@
             "id": "ddf5067d1461ef1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter/Chapter 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/Chapter/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +103,15 @@
   },
   "active": "ddf5067d1461ef1d",
   "lastOpenFiles": [
-    "Mindboard/Main Canvas.canvas",
+    "Mindboard/Plot/Draft.md",
+    "Mindboard/Plot/Destuction Of The Paradise System.md",
+    "Chapters/Annotation.md",
+    "Assets/Generations/Jasper generation.md",
     "Chapters/Chapter/Chapter 1.md",
-    "Jasper generation.md",
+    "Mindboard/Main Canvas.canvas",
     "Mindboard/Characters/DevAkaya.md",
     "Mindboard/Star Systems/Stellar System.md",
     "Mindboard/Ideology/Philosophy Of The Universe.md",
-    "Assets/Images/ab5akk5xucfcmg3slcs5.png",
-    "Assets/Compilations/Elysium Compiled.pdf",
-    "Assets/Compilations/To SEnd.pdf",
-    "Assets/Images/Pasted image 20220902052537.png"
+    "Assets/Images/ab5akk5xucfcmg3slcs5.png"
   ]
 }
