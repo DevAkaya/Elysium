@@ -1,0 +1,1 @@
+At one point of the story Jasper is sat in the recreational room with the captain and he asks him  so why us with how advanced we are have we not decided to make synthetic humans? The captain then replies to Jasper and says well it's something I actually brought up with the Palace Of Alterra HQ government to which their reply is 

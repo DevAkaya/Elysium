@@ -8,14 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddf5067d1461ef1d",
+            "id": "010d893238a34818",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "ac0cad96bcf28b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/Chapter/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,12 +52,12 @@
             }
           },
           {
-            "id": "ac6609ea11b4045d",
+            "id": "f3412fc32381fda6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Alterra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapters/Chapter/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +115,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ddf5067d1461ef1d",
+  "active": "ac0cad96bcf28b06",
   "lastOpenFiles": [
-    "Mindboard/Plot/Draft.md",
-    "Mindboard/Plot/Destuction Of The Paradise System.md",
-    "Chapters/Annotation.md",
-    "Assets/Generations/Jasper generation.md",
-    "Chapters/Chapter/Chapter 1.md",
-    "Mindboard/Main Canvas.canvas",
     "Mindboard/Characters/DevAkaya.md",
     "Mindboard/Star Systems/Stellar System.md",
+    "Mindboard/Plot/Speech Draft.md",
+    "Mindboard/Plot/Draft.md",
+    "Mindboard/Civilisations/Alterra/Genesis.md",
+    "Mindboard/Civilisations/Akaya/Prototype 2.md",
     "Mindboard/Ideology/Philosophy Of The Universe.md",
-    "Assets/Images/ab5akk5xucfcmg3slcs5.png"
+    "Mindboard/Plot/Destuction Of The Paradise System.md",
+    "Chapters/Chapter/Chapter 1.md",
+    "Mindboard/Main Canvas.canvas"
   ]
 }
