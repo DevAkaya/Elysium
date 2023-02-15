@@ -1,9 +1,11 @@
-Citizens across the province arise to another day in Alterra. The sun and it's dazzling dyson rings shines brightly over the capital province of Alterra, casting a warm and peaceful glow over the cityscape. The alluring and harmonic ambience of nature and it's gardens of the deepest green finding an equilibrium with the distant sounds of spaceships and hovercars creates a unique and peaceful environment. Stellaris is a true testament to Alterra's power. Alterra's success of achieving a near utopian way of life is a testament to what human are truly capable of when united. Thanks to the tireless efforts of it's dedicated and civilized people with its constitution, Alterra grew fast. Humans across many systems watch in awe and jealousy, witnessing humanity's first stable and truly substantial civilization. The quintessence of mercy and tenderness runs deep through the heart of the home planet Stellaria. But this day was cloven with vigour when an unusual commotion in the capital forever changed the timeline for Alterra. 
+Citizens across the province arise to another day in Alterra. The sun and it's dazzling dyson rings shines brightly over the capital province of Alterra, casting a warm and peaceful glow over the cityscape. The alluring and harmonic ambience of nature and it's gardens of the deepest green finding an equilibrium with the distant sounds of spaceships and hovercars creates a unique and peaceful environment. Stellaris is a true testament to Alterra's power. Alterra's success of achieving a near utopian way of life is a testament to what human are truly capable of when united. Thanks to the tireless efforts of it's dedicated and civilized people with its constitution, Alterra grew fast. Humans across many systems watch in awe and jealousy, witnessing humanity's first stable and truly substantial civilization. The quintessence of mercy and tenderness runs deep through the heart of the home planet Stellaria. But this day was cloven with vigour when an unusual commotion in the capital forever changed the timeline for Alterra.
 
 (Actual Picture of Stellaris)
   ![[ab5akk5xucfcmg3slcs5.png]]
 
 Millions, of citizens across the star system known as The Stellar System as part of their usual routine switch on their Fusion Lenses. These are revolutionary eye contacts that allow Alterrans near full immersion into a technological world where many fulfil their wildest dreams, but before they do; a lot of them get their daily dose of Stellaris' largest influencer… Elena
+
+<center> END OF MANUSCRIPT DIVERGENCE </center> 
 
 “Right, let's get to work” Exclaimed Elena. The camera crew hustles and gets the place ready for her daily stream; Elena suspended 117 stories above the ground in her office flat can’t help but gaze at the beautiful views her fans witness her at daily alongside her natural beauty and personality. ‘Hey, Christiane? Care to tell me what’s so interesting about that wall you’ve chosen?’ Elena was very unamused, prompting the frightened camera operator to turn her head reluctantly to Elena and mutters, ‘you in front of that wall is enough…’
 
@@ -17,7 +19,18 @@ Elena's stream is interrupted as the camera operator struggles to keep the camer
 
 As it gets closer, it becomes clear that this is no ordinary spacecraft. Its size alone casts, in to the hearts of the one who witnesses, horror and awe. Behold! Its advanced technology and design is unlike anything anyone in Alterra ever thought of. The sirens continue to blare as the spaceship makes its descent, the people of Alterra unable to tear their eyes away from the incredible sight.
 
-Finally, with a mighty roar, the spaceship touches down in the centre of the city. The ground trembles beneath its weight, and a cloud of dust and debris fills the air. And as the dust settles, the people of Alterra can only wait with bated breath to see what this mysterious visitor has in store for them.
+Finally, with a mighty roar, the spaceship touches down in the centre of the city. The ground trembles beneath its weight, and a cloud of dust and debris fills the air. The people of Alterra can only wait with bated breath to see what this mysterious visitor has in store for them.
 
 
 ![[Pasted image 20220902052542.png]]
+
+
+As the hazy debris settled, the hearts of those in awe found relief from their dread. Yet Christiane's hands trembled as she beheld the strange spaceship descending upon the city, its sirens blaring in the background. Fear and anxiety took dominion of her heart as she thought of her son, who was meant to be at the Institute of Stellaris, the very place towards which the alien vessel seemed to be heading.
+
+Turning to Elena, Christiane voices her worry in a shaky voice. Elena, I'm so worried about my son. He's at the Institute of Stellaris, and that's where that spaceship seems to be headed. What if he's in danger?"
+
+Elena looks at Christiane with a mixture of concern and annoyance. "Look, Christiane, I know you're worried about your son, but he's in good hands. He's at the Institute of Stellaris, with Jasper, the brightest mind in Alterra. If anyone can keep him safe, it's Jasper. So don't worry, okay? Everything will be fine."
+
+But Christiane can't help the nagging feeling of fear that grips her heart. She knows that Jasper is brilliant, but what if something goes wrong? What if her son is hurt, or worse?
+
+Meanwhile, the spaceship has landed in the centre of the city, and a crowd of people has gathered around it, watching in awe and fear. The spaceship is like nothing anyone has ever seen before - sleek, abstract, and advanced beyond belief.
