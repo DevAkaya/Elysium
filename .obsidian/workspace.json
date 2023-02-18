@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter/Manuscript Style 1.md",
+                "file": "Chapters/Chapter/Manuscript Style 1 Old.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter/Manuscript Style 1.md",
+                "file": "Chapters/Chapter/Manuscript Style 2 New.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/Chapter/Manuscript Style 1.md",
+                "file": "Chapters/Chapter/Manuscript Style 2 New.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "aa0cd929d18e8cfd",
   "lastOpenFiles": [
-    "Chapters/Chapter/Manuscript Style 2.md",
-    "Chapters/Chapter/Manuscript Style 1.md",
+    "Chapters/Chapter/Manuscript Style 1 Old.md",
+    "Chapters/Chapter/Manuscript Style 2 New.md",
+    "Chapters/Annotation.md",
     "Mindboard/Characters/DevAkaya.md",
     "Mindboard/Star Systems/Stellar System.md",
     "Mindboard/Plot/Speech Draft.md",
     "Mindboard/Plot/Draft.md",
     "Mindboard/Civilisations/Alterra/Genesis.md",
     "Mindboard/Civilisations/Akaya/Prototype 2.md",
-    "Mindboard/Ideology/Philosophy Of The Universe.md",
-    "Mindboard/Plot/Destuction Of The Paradise System.md"
+    "Mindboard/Ideology/Philosophy Of The Universe.md"
   ]
 }
