@@ -118,19 +118,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "aa0cd929d18e8cfd",
   "lastOpenFiles": [
-    "Chapters/Chapter/Manuscript Style 1 Old.md",
+    "Mindboard/Characters/Jasper.md",
     "Chapters/Chapter/Manuscript Style 2 New.md",
+    "Chapters/Chapter/Manuscript Style 1 Old.md",
     "Chapters/Annotation.md",
     "Mindboard/Characters/DevAkaya.md",
     "Mindboard/Star Systems/Stellar System.md",
