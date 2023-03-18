@@ -33,32 +33,10 @@ She faces Elena and with tremble voiced her apprehension, “O Elena, I am so fe
 
 But Christiane could not restrain the gnawing feeling of dread that seized her heart. She knew that Jasper was brilliant, but what if something went wrong? What if her son was harmed, or worse?
 
-
 “What da the fuck!” As Hugo reclined in his chair, a sudden jolt seized his chest, and an overwhelming boom was rented asunder outside his window. He descended out of his comfort, hastening to the glass and gazing through the curtains. His breath caught in his throat as he beheld a dense plume of smoke billowing up from the city center, veiling the sun and casting a murky pall over the structures from his view. Quickly, he reached for his phone on the nightstand, hoping to call his mother, but no signal came through. Perplexed and anxious, he pondered over the cause of this chaos and worried about his mother's safety.
 
 
 
-The Institute of Stellaris is a tremendous edifice that overtopped the buildings around it. It was the focus of scientific inquiry and novelty in Alterra, and the abode of some of the most sagacious minds in the human race. Jasper was one of them, a young marvel who had attained astounding findings in astrophysics and quantum mechanics. He was also Hugo’s guide and companion, and had invited him to join his team at the institute.
-
-Hugo was captivated by Jasper’s work, but he also had a defiant disposition. He frequently disputed Jasper’s methods and theories, and sometimes defied him to arguments. He also liked to roam the institute by himself, seeking secrets and enigmas. He had a talent for encountering trouble, but he always escaped it with his charisma and ingenuity.
-
-He resolved to go look for Jasper, hoping he would have some explanations. He ran out of his room and through the corridors, avoiding other students and staff who were also terrified. He reached the main entrance of the building, where he saw Jasper walking out with a backpack flung over his shoulder.
-
-“Jasper! Wait up!” Hugo shouted as he ran after him.
-
-Jasper turned around and saw Hugo coming near him.
-
-“Hugo? What are you doing here? You should be in your room,” Jasper said.
-
-“I need to talk to you. What’s happening out there? Is it an assault? A calamity?” Hugo asked.
-
-Jasper looked at him with a grave expression.
-
-“It’s neither,” he said. “It’s something much worse.”
-
-He pointed at the sky, where a large metallic object was hovering over the city.
-
-“It’s an alien spaceship.”
 
 
 
@@ -74,27 +52,3 @@ He pointed at the sky, where a large metallic object was hovering over the city.
 
 
 
-
-
-
-Hugo felt a sudden jolt in his chest as he heard a deafening boom outside his window. He jumped out of his bed and ran to the glass, peering through the curtains. He gasped as he saw a thick plume of smoke rising from the heart of the city, obscuring the sun and casting a dark shadow over the buildings. He grabbed his phone from his nightstand and tried to call his mother, but there was no signal. He wondered what was going on, and if she was safe.
-
-He decided to go look for Jasper, his mentor and friend at the Institute of Stellaris. Jasper was a brilliant scientist who had invited Hugo to join his team of researchers at the institute, a place of wonder and innovation. Hugo admired Jasper’s work, but he also had a curious and rebellious nature. He often questioned Jasper’s methods and theories, and sometimes challenged him to debates. He also liked to explore the institute on his own, looking for secrets and mysteries. He had a knack for finding trouble, but he always managed to get out of it with his charm and wit.
-
-He ran out of his room and down the hallways, dodging other students and staff who were also panicking. He reached the main entrance of the building, where he saw Jasper walking out with a backpack slung over his shoulder.
-
-“Jasper! Wait up!” Hugo yelled as he ran after him.
-
-Jasper turned around and saw Hugo approaching him.
-
-“Hugo? What are you doing here? You should be in your room,” Jasper said.
-
-“I need to talk to you. What’s happening out there? Is it an attack? A natural disaster?” Hugo asked.
-
-Jasper looked at him with a serious expression.
-
-“It’s neither,” he said. “It’s something much worse.”
-
-He pointed at the sky, where a large metallic object was hovering over the city.
-
-“It’s an alien spaceship.”
