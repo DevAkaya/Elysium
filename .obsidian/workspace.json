@@ -134,17 +134,19 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "5d5f88aeda9bdc94",
   "lastOpenFiles": [
-    "Mindboard/Civilisations/Alterra/Legislative Matters.md",
+    "Chapters/Chapter/Manuscript Style 1 Old.md",
     "Chapters/Chapter/Manuscript Style 2 New.md",
+    "Mindboard/Civilisations/Alterra/Legislative Matters.md",
     "Mindboard/Civilisations/Alterra/Genesis.md",
     "Mindboard/Ideology/Philosophy Of The Universe.md",
     "Mindboard/Characters/Jasper.md",
-    "Chapters/Chapter/Manuscript Style 1 Old.md",
     "Chapters/Annotation.md",
     "Mindboard/Characters/DevAkaya.md",
     "Mindboard/Star Systems/Stellar System.md",

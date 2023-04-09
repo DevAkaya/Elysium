@@ -1,7 +1,8 @@
-By the blazing sun as it manifests itself. It's dazzling dyson rings and beauty shine brightly over the capital province of Alterra, casting a warm and peaceful glow over the cityscape. The alluring and harmonic ambience of nature and it's gardens of the deepest green finds an equilibrium with the distant sounds of spaceships and hovercars, creating a unique and peaceful environment. Behold, citizens across the province arise to such a day, that of which is casual in Stellaris. Verily, Stellaris is a true testament to Alterra's power. Alterra's success of achieving a near utopian way of life is a testament to what humans are truly capable of when united. Extol to them for their tireless efforts of it's dedicated and civilised people with its constitution which thereby Alterra grew fast. Multitudes of man are stricken with jealousy as mankind witnesses in awe the first successful endeavour in a civilisation of prosperity and peace. Indeed, the quintessence of mercy and tenderness runs deep through the heart of Stellaris's home planet, Stellaria. But this day was cloven with vigour when an unusual commotion in the capital forever changed the timeline for Alterra. 
+By the blazing sun as it manifests itself. It's dazzling Dyson rings and beauty shine brightly over the capital province of Alterra, casting a warm and peaceful glow over the cityscape. The alluring and harmonic ambience of nature and it's gardens of the deepest green finds an equilibrium with the distant sounds of spaceships and hovercars, creating a unique and peaceful environment. Behold, citizens across the province arise to such a day, that of which is casual in Stellaris. Verily, Stellaris is a true testament to Alterra's power. 
 
-(Actual Picture of Stellaris)
-  ![[ab5akk5xucfcmg3slcs5.png]]
+Alterra's success of achieving a near utopian way of life is a testament to what humans are truly capable of when united. Extol to them for their tireless efforts of it's dedicated and civilized people with its constitution which thereby Alterra grew fast. Multitudes of man are stricken with jealousy as mankind witnesses in awe the first successful endeavor in a civilization of prosperity and peace. Indeed, the quintessence of mercy and tenderness runs deep through the heart of Stellaris's home planet, Stellaria. But this day was cloven with vigor when an unusual commotion in the capital forever changed the timeline for Alterra. 
+
+(Actual Picture of Stellaris)  ![[ab5akk5xucfcmg3slcs5.png]]
 
 Exalted is the vast reign of Alterra, that of which lays it's capital star system ; The Stellar System. Millions of citizens, therein, immerse themselves with their Fusion Lenses. Behold! These are the revolutionary eye contacts that allow thee Alterrans near full immersion into a technological metaverse where many fulfil their wildest dreams, but before they do; a lot of them get their daily dose of Stellaris' largest influencer… Elena
 
@@ -34,65 +35,6 @@ She faces Elena and with apprehensive tremble and propounds, “O Elena, I am so
 But Christiane could not restrain the impending feeling of dread that seized her heart. She knew that Jasper was brilliant, but what if something went wrong? What if her son was harmed, or worse?
 
 
-“What da the fuck!” As Hugo reclined in his chair, half asleep, a sudden jolt seized his chest, and an overwhelming boom was rented asunder outside his window. He withdrew from of his comfort, hastening to the glass and gazing through the curtains. His breath situated in his larynx as he beheld a dense plume of smoke ascending up from the city centre, veiling the sun and casting a murky pall over the structures from his view. Quickly, he reached for his phone on the nightstand, hoping to call his mother, but no signal came through. Perplexed and anxious, he pondered over the cause of this chaos and worried about his mother's safety.
+“What da the fuck!” As Hugo reclined in his chair, half asleep, a sudden jolt seized his chest, and an overwhelming boom was rented asunder outside his window. He withdrew from of his comfort, hastening to the glass and gazing through the curtains. His breath situated in his larynx as he beheld a dense plume of smoke ascending up from the city center, veiling the sun and casting a murky pall over the structures from his view. Quickly, he reached for his phone on the nightstand, hoping to call his mother, but no signal came through. Perplexed and anxious, he pondered over the cause of this chaos and worried about his mother's safety. Hugo hastened in
 
 The Institute of Stellaris is a tremendous marvel that overtopped the buildings around it. It was the focus of scientific inquiry and novelty in Alterra, and the abode of some of the most sagacious minds in the human race. Jasper was one of them, a young marvel who had attained astounding findings in astrophysics and quantum mechanics. He was also Hugo’s guide and companion, and had invited him to join his team at the institute.
-
-Hugo was captivated by Jasper’s work, but he also had a defiant disposition. He frequently disputed Jasper’s methods and theories, and sometimes defied him to arguments. He also liked to roam the institute by himself, seeking secrets and enigmas. He had a talent for encountering trouble, but he always escaped it with his charisma and ingenuity.
-
-He resolved to go look for Jasper, hoping he would have some explanations. He ran out of his room and through the corridors, avoiding other students and staff who were also terrified. He reached the main entrance of the building, where he saw Jasper walking out with a backpack flung over his shoulder.
-
-“Jasper! Wait up!” Hugo shouted as he ran after him.
-
-Jasper turned around and saw Hugo coming near him.
-
-“Hugo? What are you doing here? You should be in your room,” Jasper said.
-
-“I need to talk to you. What’s happening out there? Is it an assault? A calamity?” Hugo asked.
-
-Jasper looked at him with a grave expression.
-
-“It’s neither,” he said. “It’s something much worse.”
-
-He pointed at the sky, where a large metallic object was hovering over the city.
-
-“It’s an alien spaceship.”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hugo felt a sudden jolt in his chest as he heard a deafening boom outside his window. He jumped out of his bed and ran to the glass, peering through the curtains. He gasped as he saw a thick plume of smoke rising from the heart of the city, obscuring the sun and casting a dark shadow over the buildings. He grabbed his phone from his nightstand and tried to call his mother, but there was no signal. He wondered what was going on, and if she was safe.
-
-He decided to go look for Jasper, his mentor and friend at the Institute of Stellaris. Jasper was a brilliant scientist who had invited Hugo to join his team of researchers at the institute, a place of wonder and innovation. Hugo admired Jasper’s work, but he also had a curious and rebellious nature. He often questioned Jasper’s methods and theories, and sometimes challenged him to debates. He also liked to explore the institute on his own, looking for secrets and mysteries. He had a knack for finding trouble, but he always managed to get out of it with his charm and wit.
-
-He ran out of his room and down the hallways, dodging other students and staff who were also panicking. He reached the main entrance of the building, where he saw Jasper walking out with a backpack slung over his shoulder.
-
-“Jasper! Wait up!” Hugo yelled as he ran after him.
-
-Jasper turned around and saw Hugo approaching him.
-
-“Hugo? What are you doing here? You should be in your room,” Jasper said.
-
-“I need to talk to you. What’s happening out there? Is it an attack? A natural disaster?” Hugo asked.
-
-Jasper looked at him with a serious expression.
-
-“It’s neither,” he said. “It’s something much worse.”
-
-He pointed at the sky, where a large metallic object was hovering over the city.
-
-“It’s an alien spaceship.”
