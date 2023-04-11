@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "010d893238a34818",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "ac0cad96bcf28b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter/Manuscript Style 1 Old.md",
+                "file": "Chapters/Chapter/Manuscript Style 2 New.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter/Manuscript Style 2 New.md",
+                "file": "Mindboard/Civilisations/Alterra/Legislative Matters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,12 +130,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5d5f88aeda9bdc94",
+  "active": "ac0cad96bcf28b06",
   "lastOpenFiles": [
-    "Chapters/Chapter/Manuscript Style 1 Old.md",
-    "Chapters/Chapter/Manuscript Style 2 New.md",
     "Mindboard/Civilisations/Alterra/Legislative Matters.md",
     "Mindboard/Civilisations/Alterra/Genesis.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Chapters/Chapter/Manuscript Style 2 New.md",
+    "Chapters/Chapter/Manuscript Style 1 Old.md",
     "Mindboard/Ideology/Philosophy Of The Universe.md",
     "Mindboard/Characters/Jasper.md",
     "Chapters/Annotation.md",
