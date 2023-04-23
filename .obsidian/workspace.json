@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter/Manuscript Style 2 New.md",
+                "file": "Mindboard/Lotus - Phill & Wisdom/Philosophy Of The Universe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6449ed5948addcab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mindboard/Civilisations/Alterra/Legislative Matters.md",
+                "file": "Mindboard/Lotus - Phill & Wisdom/Sapience.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/Chapter/Manuscript Style 2 New.md",
+                "file": "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,21 +143,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ac0cad96bcf28b06",
+  "active": "6449ed5948addcab",
   "lastOpenFiles": [
-    "Mindboard/Civilisations/Alterra/Legislative Matters.md",
-    "Mindboard/Civilisations/Alterra/Genesis.md",
+    "Mindboard/Plot/Draft.md",
+    "Mindboard/Plot/Speech Draft.md",
+    "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
+    "Mindboard/Lotus - Phill & Wisdom/Sapience.md",
+    "Mindboard/Lotus - Phill & Wisdom/Philosophy Of The Universe.md",
     "Chapters/Chapter/Manuscript Style 2 New.md",
+    "Mindboard/Civilisations/Alterra/Genesis.md",
+    "Mindboard/Civilisations/Akaya/Prototype 2.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Chapters/Chapter/Manuscript Style 1 Old.md",
-    "Mindboard/Ideology/Philosophy Of The Universe.md",
     "Mindboard/Characters/Jasper.md",
     "Chapters/Annotation.md",
     "Mindboard/Characters/DevAkaya.md",
-    "Mindboard/Star Systems/Stellar System.md",
-    "Mindboard/Plot/Speech Draft.md",
-    "Mindboard/Plot/Draft.md",
-    "Mindboard/Civilisations/Akaya/Prototype 2.md"
+    "Mindboard/Star Systems/Stellar System.md"
   ]
 }
