@@ -16,7 +16,7 @@ So it was said to the objectional ones; Uphold peace and unity as a quintessence
 
 Jasper replied, “What is this nectar O Sage?” A smile of contentment was cloven from his face from which he propounded:
 
-Verily, it is this nectar which takes multiple forms. Cloven from the fragrance of this nectar is the liberation of oneself from the wickedness of life. 
+Verily, it is this nectar which takes multiple forms. Cloven from the fragrance of this nectar is the liberation of oneself from the wickedness of life. At the early dawn of man; liberated were those among you who thought beyond.
 
 
 
