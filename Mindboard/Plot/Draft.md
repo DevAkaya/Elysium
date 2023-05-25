@@ -1,3 +1,5 @@
++ Emitted from the ship is a 
+
 They receive a last letter from the captain of the ark, who mentions of the Akayan scrolls back on earth that will reveal more insight onto what steps Alterra needs to take.
 
 A detective back on Stellaris explores more themes of the book and gives more insight into the landscape of Stellaris.

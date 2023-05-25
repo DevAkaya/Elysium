@@ -8,50 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac0cad96bcf28b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindboard/Lotus - Phill & Wisdom/Philosophy Of The Universe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6449ed5948addcab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
+                "file": "Mindboard/Plot/Draft.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa0cd929d18e8cfd",
+            "id": "4e778b7ff3ae1499",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Mindboard/Civilisations/Alterra/Genesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d5f88aeda9bdc94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindboard/Lotus - Phill & Wisdom/Sapience.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.2.7"
               }
             }
           }
@@ -93,12 +67,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "7ab5a4172904a5d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "03d77a9c80017bfd",
@@ -114,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
+                "file": "Mindboard/Plot/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,14 +125,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6449ed5948addcab",
+  "active": "4e778b7ff3ae1499",
   "lastOpenFiles": [
+    "Chapters/Chapter/Manuscript Style 2 New.md",
+    "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
+    "Mindboard/Lotus - Phill & Wisdom/Philosophy Of The Universe.md",
     "Mindboard/Plot/Draft.md",
     "Mindboard/Plot/Speech Draft.md",
-    "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
     "Mindboard/Lotus - Phill & Wisdom/Sapience.md",
-    "Mindboard/Lotus - Phill & Wisdom/Philosophy Of The Universe.md",
-    "Chapters/Chapter/Manuscript Style 2 New.md",
     "Mindboard/Civilisations/Alterra/Genesis.md",
     "Mindboard/Civilisations/Akaya/Prototype 2.md",
     "Untitled 1.canvas",
