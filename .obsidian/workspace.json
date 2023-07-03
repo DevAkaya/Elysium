@@ -23,14 +23,40 @@
             "id": "4e778b7ff3ae1499",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dc4b0c710d85df9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a797ec37b09686b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindboard/Plot/Draft.md",
+                "file": "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,14 +151,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4e778b7ff3ae1499",
+  "active": "a797ec37b09686b8",
   "lastOpenFiles": [
-    "Chapters/Chapter/Manuscript Style 2 New.md",
-    "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
     "Mindboard/Lotus - Phill & Wisdom/Philosophy Of The Universe.md",
-    "Mindboard/Plot/Draft.md",
-    "Mindboard/Plot/Speech Draft.md",
     "Mindboard/Lotus - Phill & Wisdom/Sapience.md",
+    "Mindboard/Plot/Draft.md",
+    "Mindboard/Lotus - Phill & Wisdom/The Akayan Sermon.md",
+    "Chapters/Chapter/Manuscript Style 2 New.md",
+    "Mindboard/Plot/Speech Draft.md",
     "Mindboard/Civilisations/Alterra/Genesis.md",
     "Mindboard/Civilisations/Akaya/Prototype 2.md",
     "Untitled 1.canvas",
