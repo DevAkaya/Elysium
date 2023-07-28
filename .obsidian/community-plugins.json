@@ -1,13 +1,16 @@
 [
   "obsidian-languagetool-plugin",
   "various-complements",
-  "easy-typing-obsidian",
   "ninja-cursor",
   "cm-typewriter-scroll-obsidian",
-  "better-word-count",
   "editing-toolbar",
-  "obsidian-reading-time",
   "obsidian-minimal-settings",
-  "obsidian-textgenerator-plugin",
-  "obsidian-kanban"
+  "obsidian-git",
+  "easy-typing-obsidian",
+  "cmdr",
+  "obsidian-style-settings",
+  "obsidian-enhancing-mindmap",
+  "obsidian-icon-folder",
+  "obsidian-excalidraw-plugin",
+  "obsidian-dictionary-plugin"
 ]

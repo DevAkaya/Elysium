@@ -1,9 +1,11 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 19,
   "accentColor": "",
   "interfaceFontFamily": "Raleway",
-  "cssTheme": "Minimal",
+  "cssTheme": "Atom",
   "theme": "obsidian",
   "nativeMenus": false,
-  "translucency": true
+  "translucency": true,
+  "monospaceFontFamily": "Raleway",
+  "textFontFamily": "Raleway"
 }
