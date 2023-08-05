@@ -32,7 +32,16 @@ An individual's internal outlook and destiny is chained to the extent of his bel
 
 Therein mankind will you find such a grave and hidden illness withheld from the eyes of the common folk that are informed not. Indeed, it is they who are negligent in their compassion that creates a society devoid of harmony. Within such a society is a biased distribution of injustice. The perpetrators of this injustice were those who were denied affection from their benefactors. And who is more among the unjust than he who fabricates this deviation of social affection. 
 
-Therein, among the criminals and tyrants, you will find multitudes of tormented souls who permitted for themselves a kindling of darkness. You will not find any people among them who embraced _affection_ for the ones who contravene their transgressions.  O Learned! Be merciful onto those deprived of mercy, and lower to them the pennon of rehabilitation out of mercy, for indeed your blaze of scarring vengeance will be annihilated. Among the society that upheld this judiciary prevailed in their reformations like the nations of Scandinavia. 
+Herein, among the criminals and tyrants, you will find multitudes of tormented souls who permitted for themselves a kindling of darkness. You will not find any people among them who embraced _affection_ for the ones who contravene their transgressions.  O Learned! Be merciful onto those deprived of mercy, and lower to them the wings of rehabilitation out of mercy, for indeed your blaze of scarring vengeance will be annihilated. Among the societies that upheld this judiciary prevailed in their reformations like the nations of Scandinavia on Earth. 
+
+The Divine Pendulum 
+
+Beware of the  Verily, 
+
+
+
+
+-- WIP “If you spend your time chasing butterflies, they will fly away. If you spend your time building your garden, the butterflies will come to you. And if they don’t, you still have a beautiful garden.”
 
 
 

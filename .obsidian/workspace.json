@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f8ef3d47f7e19bf",
+        "id": "17b07753fd24aedb",
         "type": "tabs",
         "children": [
           {
-            "id": "6449ed5948addcab",
+            "id": "20b46c8b2aeaebd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4e778b7ff3ae1499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dc4b0c710d85df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a797ec37b09686b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindboard/Civilisations/Alterra/Genesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 257.50390243530273
   },
   "right": {
     "id": "03d77a9c80017bfd",
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindboard/Civilisations/Alterra/Genesis.md",
+                "file": "Mindboard/Plot/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mindboard/Plot/Draft.md"
+              }
             }
           }
         ],
@@ -163,22 +128,19 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "cmdr:Obsidian Git: Push": false,
-      "cmdr:Obsidian Git: Pull": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "b144f0c3b1d0c7e6",
+  "active": "20b46c8b2aeaebd6",
   "lastOpenFiles": [
-    "Mindboard/Plot/Draft.md",
+    "Chapters/Chapter/Manuscript Style 2 New.md",
     "Mindboard/Civilisations/Akaya/Genesis.md",
+    "Mindboard/Philosophy/The Akayan Sermon.md",
+    "Mindboard/Plot/Draft.md",
     "Mindboard/Civilisations/Alterra/Genesis.md",
     "Mindboard/Philosophy/Philosophy Of The Universe.md",
     "Chapters/Chapter/Manuscript Style 1 Old.md",
-    "Mindboard/Philosophy/The Akayan Sermon.md",
     "Mindboard/Philosophy/Sapience.md",
-    "Chapters/Chapter/Manuscript Style 2 New.md",
     "Mindboard/Plot/Speech Draft.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
