@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64655376d9a60741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindboard/Plot/Draft.md",
+                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mindboard/Plot/Draft.md"
+                "file": "Mindboard/Philosophy/The Akayan Sermon.md"
               }
             }
           }
@@ -131,22 +144,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "20b46c8b2aeaebd6",
+  "active": "64655376d9a60741",
   "lastOpenFiles": [
+    "Mindboard/Philosophy/Philosophy Of The Universe.md",
     "Chapters/Chapter/Manuscript Style 2 New.md",
+    "Mindboard/Philosophy/Sapience.md",
+    "Mindboard/Heliospheres/Stellar System.md",
     "Mindboard/Civilisations/Akaya/Genesis.md",
     "Mindboard/Philosophy/The Akayan Sermon.md",
     "Mindboard/Plot/Draft.md",
     "Mindboard/Civilisations/Alterra/Genesis.md",
-    "Mindboard/Philosophy/Philosophy Of The Universe.md",
     "Chapters/Chapter/Manuscript Style 1 Old.md",
-    "Mindboard/Philosophy/Sapience.md",
     "Mindboard/Plot/Speech Draft.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Mindboard/Characters/Jasper.md",
     "Chapters/Annotation.md",
-    "Mindboard/Characters/The Creator.md",
-    "Mindboard/Heliospheres/Stellar System.md"
+    "Mindboard/Characters/The Creator.md"
   ]
 }
