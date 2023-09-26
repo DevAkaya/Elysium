@@ -39,10 +39,6 @@ Therein mankind will you find such a grave and hidden illness withheld from the 
 
 Herein, among the criminals and tyrants, you will find multitudes of tormented souls who permitted for themselves a kindling of darkness. You will not find any people among them who embraced _affection_ for the ones who contravene their transgressions.  O Learned! Be merciful onto those deprived of mercy, and lower to them the wings of rehabilitation out of mercy, for indeed your blaze of scarring vengeance will be annihilated. Among the societies that upheld this judiciary prevailed in their reformations like the Scandinavian nations. 
 
-The Divine Pendulum 
-
-Beware of the  Verily, 
-
 
 
 
