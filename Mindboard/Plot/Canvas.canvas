@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0712dbac4f2eea74","type":"text","text":"<h1>Elysium<h1>","x":-1640,"y":-118,"width":290,"height":78},
+		{"id":"be6af402a21670c3","type":"text","text":"<h3>Luca<h3>","x":-1200,"y":-40,"width":400,"height":120},
+		{"id":"608d4d2fd5618f6f","type":"text","text":"<h3>Spaceship<h3>","x":-680,"y":80,"width":480,"height":78}
+	],
+	"edges":[
+		{"id":"c95c52af61878f0e","fromNode":"0712dbac4f2eea74","fromSide":"right","toNode":"be6af402a21670c3","toSide":"left"},
+		{"id":"b6bfdf235a2a22d1","fromNode":"be6af402a21670c3","fromSide":"right","toNode":"608d4d2fd5618f6f","toSide":"left"}
+	]
+}
