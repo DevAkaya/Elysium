@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Constitution of Alterra/Conduct Of Alterra.md",
+                "file": "Mindboard/Philosophy/Ex Materia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e74861b9976ebc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mindboard/Philosophy/Ex Materia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75bacf2a96d8005c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,13 +124,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.50390243530273,
-    "collapsed": true
+    "width": 257.50390243530273
   },
   "right": {
     "id": "03d77a9c80017bfd",
@@ -122,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Constitution of Alterra/Conduct Of Alterra.md",
+                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Constitution of Alterra/Conduct Of Alterra.md"
+                "file": "Mindboard/Philosophy/The Akayan Sermon.md"
               }
             }
           },
@@ -157,7 +179,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -178,29 +202,29 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0db13f9f2e416e43",
+  "active": "75bacf2a96d8005c",
   "lastOpenFiles": [
-    "Constitution of Alterra/Non Lore Preface.md",
-    "Constitution of Alterra/Conduct Of Alterra.md",
+    "Mindboard/Philosophy/Ex Materia.md",
+    "Mindboard/Philosophy/The Akayan Sermon.md",
+    "Chapters/Chapter/Story Opening.md",
+    "Chapters/Chapter/Manuscript Style 1 Old.md",
     "Constitution of Alterra/Rules Of Staff.md",
     "Constitution of Alterra/Rules Of Alterra.md",
-    "Constitution of Alterra/Etiquettes Of Human Sensibilities.md",
-    "Mindboard/Plot/To-Do.md",
-    "Mindboard/Philosophy/The Akayan Sermon.md",
-    "Mindboard/Philosophy/Ex Materia.md",
-    "Mindboard/Civilisations/Akaya/Genesis.md",
-    "Chapters/Chapter/Story Opening.md",
-    "Mindboard/Plot/Untitled.canvas",
-    "Mindboard/Philosophy/Untitled",
+    "Mindboard/Philosophy/Philosophy Of The Universe.md",
     "Mindboard/Philosophy/Sapience.md",
+    "Mindboard/Plot/Untitled.canvas",
+    "Mindboard/Civilisations/Akaya/Genesis.md",
+    "Mindboard/Heliospheres/Stellar System.md",
+    "Constitution of Alterra/Conduct Of Alterra.md",
+    "Constitution of Alterra/Etiquettes Of Human Sensibilities.md",
+    "Constitution of Alterra/Non Lore Preface.md",
+    "Mindboard/Plot/To-Do.md",
+    "Mindboard/Philosophy/Untitled",
     "Mindboard/Plot/30 Questions.md",
     "Mindboard/Plot/Canvas.canvas",
-    "Mindboard/Heliospheres/Stellar System.md",
     "Mindboard/Plot/Time Processes.md",
     "Constitution of Alterra",
     "Chapters/Chapter/Manuscript Style 2 New.md",
-    "Chapters/Chapter/Manuscript Style 1 Old.md",
-    "Mindboard/Philosophy/Philosophy Of The Universe.md",
     "Mindboard/Civilisations/Alterra/Genesis.md",
     "Mindboard/Plot/Speech Draft.md",
     "Untitled 1.canvas",
