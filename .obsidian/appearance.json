@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 21,
+  "baseFontSize": 25,
   "accentColor": "",
   "interfaceFontFamily": "Raleway",
-  "cssTheme": "Atom",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "nativeMenus": false,
   "translucency": true,

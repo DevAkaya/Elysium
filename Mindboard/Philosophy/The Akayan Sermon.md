@@ -8,7 +8,7 @@ However, peace is often elusive and fragile, constantly threatened by those who 
 
 So it was said to the objectional ones; Uphold peace and unity as a quintessence of the mind. Such are multitudes of people who diverted from the path of serenity and righteousness. Among them were the corrupt and unjust. Their resultant individuality strikes similitude to a discontent shell devoid of any goodness, Their souls were sealed from tasting the greatest of nectar of life. 
 
-Jasper replied, “What is this nectar O Sage?” So he _smiled_ broadly, content at his speech, and propounded:
+Jasper replied, “What is this nectar O Sage?” So he _smiled_ broadly, content at his speech, and propounded:
 
 Verily, it is this nectar's fragrance which takes multiple forms. Indeed, cloven from the fragrance of this nectar is the liberation of oneself from the wickedness of life. From the early dawn of humankind; liberated were those among you who's thinking rose beyond the nationalist borders of their nations. Surely, it is the prosperity of the mind that is found in liberation from the ignorance of humankind, and it's arrogance. Devoid of liberation, where those who indulged their minds with transgressions of their forefathers. Such were those who valued the enterprise over humanity, dogma over truth and racism over unity. They enveloped themselves in arrogance outwardly, but inwards we're truly in despair. 
 
@@ -41,9 +41,7 @@ Herein, among the criminals and tyrants, you will find multitudes of tormented s
 
 The Divine Pendulum 
 
-Beware of the  Verily, 
-
-
+O Exhalted! Bestow onto me that which of which is not 
 
 
 -- WIP “If you spend your time chasing butterflies, they will fly away. If you spend your time building your garden, the butterflies will come to you. And if they don’t, you still have a beautiful garden.”

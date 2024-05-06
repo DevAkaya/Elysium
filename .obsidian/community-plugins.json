@@ -1,9 +1,7 @@
 [
-  "obsidian-languagetool-plugin",
   "various-complements",
   "ninja-cursor",
   "cm-typewriter-scroll-obsidian",
-  "editing-toolbar",
   "obsidian-minimal-settings",
   "obsidian-git",
   "easy-typing-obsidian",
@@ -12,5 +10,8 @@
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
   "obsidian-dictionary-plugin",
-  "lovely-mindmap"
+  "lovely-mindmap",
+  "obsidian-languagetool-plugin",
+  "editing-toolbar",
+  "obsidian-enhancing-mindmap"
 ]

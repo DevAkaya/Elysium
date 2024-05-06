@@ -7,7 +7,8 @@
 		{"id":"b9499e42a1c635da","type":"text","text":"Through the plumes of ashes firmly stood Jasper","x":1020,"y":-412,"width":250,"height":109},
 		{"id":"ec6a50358cbb7e2a","type":"text","text":"MARKER","x":880,"y":-600,"width":140,"height":50},
 		{"id":"e4ec9a38285356a3","type":"text","text":"Through the plumes of ashes firmly stood Jasper","x":1020,"y":80,"width":250,"height":109},
-		{"id":"45b41caf34543b85","x":1640,"y":-600,"width":840,"height":920,"type":"text","text":"__**30 Questions Development**__\n\n"}
+		{"id":"45b41caf34543b85","type":"text","text":"__**30 Questions Development**__\n\n","x":1640,"y":-600,"width":840,"height":920},
+		{"id":"7b8f463ad1ef09e7","type":"file","file":"Constitution of Alterra/Non Lore Preface.md","x":90,"y":135,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"8d74f54a279d1ac3","fromNode":"4a270b12379f3ed5","fromSide":"right","toNode":"ba366ebaeb366a84","toSide":"left"},
