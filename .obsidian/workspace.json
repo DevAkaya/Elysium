@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter/Story Opening.md",
+                "file": "Manifesto/Prelude.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapters/Chapter/Story Opening.md"
+                "file": "Manifesto/Prelude.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/Chapter/Story Opening.md",
+                "file": "Manifesto/Prelude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,22 +175,23 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "b9b5890d749dadca",
   "lastOpenFiles": [
-    "Constitution of Alterra/Conduct Of Alterra.md",
     "Chapters/Chapter/Story Opening.md",
+    "Manifesto/Prelude.md",
+    "Mindboard/Philosophy/Sapience.md",
+    "Constitution of Alterra/Conduct Of Alterra.md",
+    "Mindboard/Philosophy/The Akayan Sermon.md",
+    "Manifesto",
     "Mindboard/Civilisations/Drawing 2024-02-15 10.24.19.excalidraw.md",
     "Mindboard/Civilisations/Akaya/Genesis.md",
     "Mindboard/Plot/Time Processes.md",
-    "Mindboard/Philosophy/Sapience.md",
     "Mindboard/Philosophy/Philosophy Of The Universe.md",
     "Mindboard/Philosophy/Ex Materia.md",
     "Constitution of Alterra/Non Lore Preface.md",
-    "Mindboard/Philosophy/The Akayan Sermon.md",
     "Mindboard/Plot/Speech Draft.md",
     "Mindboard/Characters/The Creator.md",
     "Excalidraw/Drawing 2023-12-09 17.26.34.excalidraw.md",
@@ -210,7 +211,6 @@
     "Mindboard/Plot/To-Do.md",
     "Untitled.canvas",
     "Mindboard/Philosophy/Untitled",
-    "Mindboard/Plot/30 Questions.md",
     "Mindboard/Plot/Canvas.canvas",
     "Constitution of Alterra",
     "Untitled 1.canvas"

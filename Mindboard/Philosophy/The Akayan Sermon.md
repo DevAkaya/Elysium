@@ -41,7 +41,7 @@ Herein, among the criminals and tyrants, you will find multitudes of tormented s
 
 The Divine Pendulum 
 
-O Exhalted! Bestow onto me that which of which is not 
+O Exhalted! Bestow onto me that which of which is not upheld in your dominion 
 
 
 -- WIP “If you spend your time chasing butterflies, they will fly away. If you spend your time building your garden, the butterflies will come to you. And if they don’t, you still have a beautiful garden.”
