@@ -8,5 +8,5 @@
 
 + There needs to include a convergence of these characters somewhere in the story that takes the plot one step closer to the climax of the story.
 
-+ [[The Akayan Sermon]] 
++ [[The Main Sermon]] 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
+                "file": "Mindboard/Philosophy/The Main Sermon.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manifesto/Prelude.md",
+                "file": "Mindboard/Philosophy/Footnotes-Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manifesto/Prelude.md"
+                "file": "Mindboard/Philosophy/Footnotes-Readme.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manifesto/Prelude.md",
+                "file": "Mindboard/Philosophy/Footnotes-Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +180,18 @@
   },
   "active": "b9b5890d749dadca",
   "lastOpenFiles": [
-    "Chapters/Chapter/Story Opening.md",
-    "Manifesto/Prelude.md",
+    "Mindboard/Philosophy/The Main Sermon.md",
     "Mindboard/Philosophy/Sapience.md",
+    "Mindboard/Philosophy/Ex Materia.md",
+    "Mindboard/Philosophy/Footnotes-Readme.md",
+    "Mindboard/Philosophy/Philosophy Of The Universe.md",
+    "Manifesto/Prelude.md",
+    "Chapters/Chapter/Story Opening.md",
     "Constitution of Alterra/Conduct Of Alterra.md",
-    "Mindboard/Philosophy/The Akayan Sermon.md",
     "Manifesto",
     "Mindboard/Civilisations/Drawing 2024-02-15 10.24.19.excalidraw.md",
     "Mindboard/Civilisations/Akaya/Genesis.md",
     "Mindboard/Plot/Time Processes.md",
-    "Mindboard/Philosophy/Philosophy Of The Universe.md",
-    "Mindboard/Philosophy/Ex Materia.md",
     "Constitution of Alterra/Non Lore Preface.md",
     "Mindboard/Plot/Speech Draft.md",
     "Mindboard/Characters/The Creator.md",
@@ -208,7 +209,6 @@
     "Mindboard/Civilisations/Alterra/Genesis.md",
     "Constitution of Alterra/Etiquettes Of Human Sensibilities.md",
     "Constitution of Alterra/Rules Of Alterra.md",
-    "Mindboard/Plot/To-Do.md",
     "Untitled.canvas",
     "Mindboard/Philosophy/Untitled",
     "Mindboard/Plot/Canvas.canvas",

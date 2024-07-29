@@ -4,5 +4,6 @@
   "spellcheck": true,
   "communityPluginSortOrder": "release",
   "promptDelete": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true
 }
