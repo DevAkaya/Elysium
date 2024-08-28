@@ -1,4 +1,4 @@
-By the blazing sun as it manifests itself. It's dazzling rays and warm glow shine brightly over the humanities only withering residence; Earth. Verily miserable indeed is whatever their selves have endowed for them and their offspring.
+Miserable indeed is whatever their selves have endowed for them and their offspring.
 
 I hereby declare that, as my mind wanes and the potential end of my journey on Earth draws near, I may not be present when these words reach you. To those who wish to benefit from my work, I grant full permission to use it as they see fit.
 

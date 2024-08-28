@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mindboard/Philosophy/Footnotes-Readme.md",
+                "file": "Mindboard/Philosophy/The Main Sermon.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mindboard/Philosophy/Footnotes-Readme.md"
+                "file": "Mindboard/Philosophy/The Main Sermon.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindboard/Philosophy/Footnotes-Readme.md",
+                "file": "Mindboard/Philosophy/The Main Sermon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,12 +180,12 @@
   },
   "active": "b9b5890d749dadca",
   "lastOpenFiles": [
+    "Manifesto/Prelude.md",
     "Mindboard/Philosophy/The Main Sermon.md",
+    "Mindboard/Philosophy/Philosophy Of The Universe.md",
     "Mindboard/Philosophy/Sapience.md",
     "Mindboard/Philosophy/Ex Materia.md",
     "Mindboard/Philosophy/Footnotes-Readme.md",
-    "Mindboard/Philosophy/Philosophy Of The Universe.md",
-    "Manifesto/Prelude.md",
     "Chapters/Chapter/Story Opening.md",
     "Constitution of Alterra/Conduct Of Alterra.md",
     "Manifesto",
