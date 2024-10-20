@@ -1,17 +1,17 @@
-This is a writing which will invoke discord among multitudes of souls. Within the heart, mind, and life of Akaya will you find not, but only pure burden and sorrow. A soul which yearned for peace and received only pain and bitterness. I shall now bring forth my words.
+This is a writing which will invoke discord among multitudes of minds. Within the heart, mind, and life of Akaya will you find not, but only pure burden and sorrow. A soul which yearned for peace and received only pain, injustice, and bitterness. I shall now bring forth my epiphany. 
 
 
 > Atonement Of The Forefathers
 
 Prosperous were the ones who made peace the essence of their society. These were the biggest fruits from your forefathers. Verily, nothing is more exalted upon a blessed nation than peace (Literally: The Quintessence). Wonderous is the matter of peace, for it is surely the most blissful contribution to the welfare and rights of every being. Indeed, peace is the desire of every heart, the hope of every nation and dominion, the promise of every politician; honest or deceitful, a pillar of every supplication and the outward beat of every religious agenda, Peace is the ultimate response and antagonist to many evils and suffering in life. Where evil, corrupts, destroys and tears apart, peace strengthens and restores. 
 
-May the wise (Alterra) remain steadfast in its goal of peace and eternally prevail through its dominion and beyond. Say to them, peace is a concept that is embodied in multitudes of forms and extends beyond the mere absence of conflict or violence. It is a state of harmony and tranquillity that allows oneself and it's benefactors to thrive and flourish. It is the foundation upon which relationships are built, innovations are created, and humankind works towards a better future for all. 
+May the wise (Alterra) remain steadfast in its goal of peace and eternally prevail through its dominion and beyond. Say to them: Indeed peace is a concept embodied in multitudes of forms that of which resides beyond the mere absence of conflict or violence. It is a state of harmony and tranquillity that allows oneself and it's benefactors to thrive and flourish. It is the foundation upon which relationships are built, innovations are created, and humankind works towards a better future for all. 
 
 However, fragility is the quintessence of peace. It is thy who is constantly threatened from those who seek to sow discord and unrest through their actions and ideologies. 
 
-It is incumbent and a duty on you to strive towards creating a more peaceful world, through actions both grand and small. Say, "Oh, peace how may I uphold you?"
+It is incumbent and a duty on you to strive towards creating a more peaceful world, through actions both grand and small. Say, “Oh, peace how may I uphold you?”
 
-O best among you, five kinds of pious men render devotional service unto Me—the diplomat, the rightful activist, the infectious desirer of wisdom and kindness, the inquisitive, and he who is searches for thy knowledge of the Absolute (Non-platonic form of reality). And those who strive in my path will render forth a world that is more just, compassionate, and harmonious.
+O best among you, are five kinds of pious men who render devotional service unto Me—the diplomat, the rightful activist, the infectious desirer of wisdom and kindness, the inquisitive, and he who is searches for thy knowledge of the Absolute (Non-platonic form of reality). And those who strive in my path will render forth a world that is more just, compassionate, and harmonious.
 
 So it was said to the objectional ones; Uphold peace and unity as a quintessence of the mind. Such are multitudes of people who diverted from the path of serenity and righteousness. Among them were the corrupt and unjust. The essence of such tyrants strikes similitude to a discontent shell devoid of any goodness, Indeed, such minds are sealed from tasting the greatest of nectar of life. 
 
@@ -39,17 +39,23 @@ As the days followed, cloven from the sight was the divergence of two paths. Vic
 -----
 
 The Chapter Of Cynicism
-*Evade if required as such words may be an imposition*
+*Evade if required as such words may be an imposition* 
 
 > Mental Reminder/Origin Of Story: You were broken apart/having a breakdown coming to terms with your horrific life. My mind was in too many places and I may need to break this apart.
 
 -----------------------------------------------------------------
 
-O Reader! Abstain from pondering the conundrums of reality in excess. Indeed, within the dominion of such matters resides a grotesque epiphany that only consumes and intoxicates. Surely I fear for you the torment and an imposition of such grievous matters.  
+O Reader! Abstain from pondering the conundrums of reality in excess. Indeed, within the affair of such matters resides a grotesque epiphany that only consumes and intoxicates. Surely I fear for you the torment and an imposition of such grievous matters.  
 
-Within his life resided a repository of dark and scarring nights that of which cast forth a fleeting demon overbearing in stature named nihilism. His quintessence flew through the weaves of 
+Within his (Akaya) life resided a repository of dark and scarring nights that of which cast forth a fleeting demon overbearing in stature named nihilism. His quintessence flew through the weaves of Akaya consuming a biased distribution of his mind. Blessed are those who are free from the shackles of consuming thoughts. Indeed, if such a grotesque epiphany were to seize thy; despair for even the atoms is expected.
 
-So if it was said to Akaya
+So if it was said to Akaya “from which ideological substrate are your neurotic words brought forth?“ Say: “O Foolish Bastard! Adorned for you is the love of adamancy and disfigured for you is the gift of graciousness”
+
+Propounded by your benefactor (The Demon) is the woeful; most corrosive affair that life is merely a biased accident, gushed forth by sexual desire, that verily the universe and its residents have no moral order, no truth, no spirituality, no God.  
+  
+That the long-suffering and all of mankind shall be driven by insatiable lusts and that mankind shall be drunk on (The: Unliberated)/tormented by the arrogance of power, the hypocritical, the deluded, the self-seeking. Tormented by a symphony of vast anxieties and suffering that continues until their death. They () convinced that the gratification of desire is life's sole aim, bound by a hundred shackles of hope, enslaved by their greed, they squander their time dishonestly piling up mountains of wealth.  
+  
+"Today I got this desire, and tomorrow I will get that one; all these riches are mine, and soon I will have even more. Already I have killed these enemies, and soon I will kill the rest. I am the lord, the enjoyer, successful, happy, and strong, noble, and rich, and famous. Who on earth is my equal?”
 
 We reside in a dominion (Literally: The World) that is indeed bountiful in reward to the tyrants and the sociopaths (Including the latter). Thereby, you will surely find multitudes of people who are stricken with ignorance, the ego, and foolishness; These are animals who are patrons to only themselves. Thereby, this is a writing of which it's substrates are nested in Akaya's ideology founded upon his philosophical pillars.  
 
