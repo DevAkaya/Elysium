@@ -47,13 +47,15 @@ The Chapter Of Cynicism
 
 O Reader! Abstain from pondering the conundrums of reality in excess. Indeed, within the affair of such matters resides a grotesque epiphany that only consumes and intoxicates. Surely I fear for you the torment and an imposition of such grievous matters.  
 
-Within his (Akaya) life resided a repository of dark and scarring nights that of which cast forth a fleeting demon overbearing in stature named nihilism. His quintessence flew through the weaves of Akaya consuming a biased distribution of his mind. Blessed are those who are free from the shackles of consuming thoughts. Indeed, if such a grotesque epiphany were to seize thy; despair for even the atoms is expected.
+Within his (Akaya) life resided a repository of dark and scarring nights that of which cast forth a fleeting demon overbearing in stature named nihilism. His quintessence flew through the weaves of Akaya consuming a biased distribution of his mind. Blessed are those who are free from the shackles of consuming thoughts. Indeed, if such a grotesque epiphany were to seize the strongest of minds; despair for even the atoms is expected.
 
-So if it was said to Akaya “from which ideological substrate are your neurotic words brought forth?“ Say: “O Foolish Bastard! Adorned for you is the love of adamancy and disfigured for you is the gift of graciousness”
+So if it was said to Akaya “from which ideological substrate is your neurotic sophistry brought forth?“ Say: “O Foolish Bastard! Adorned for you is the love of adamancy and disfigured for you is the gift of graciousness”
 
 Propounded by your benefactor (The Demon) is the woeful; most corrosive affair that life is merely a biased accident, gushed forth by sexual desire, that verily the universe and its residents have no moral order, no truth, no spirituality, no God.  
   
-That the long-suffering and all of mankind shall be driven by insatiable lusts and that mankind shall be drunk on (The: Unliberated)/tormented by the arrogance of power, the hypocritical, the deluded, the self-seeking. Tormented by a symphony of vast anxieties and suffering that continues until their death. They () convinced that the gratification of desire is life's sole aim, bound by a hundred shackles of hope, enslaved by their greed, they squander their time dishonestly piling up mountains of wealth.  
+That the long-suffering and all mankind shall be driven by insatiable lusts and that mankind shall be drunk on (The: Unliberated) or tormented by the arrogance of power, the hypocritical, the deluded, the self-seeking. Tormented by a symphony of vast anxieties and suffering that continues until their death. 
+
+They are convinced that the gratification of desire is life's sole aim, bound by a hundred shackles of hope, enslaved by their greed, they squander their time dishonestly piling up mountains of wealth.  
   
 "Today I got this desire, and tomorrow I will get that one; all these riches are mine, and soon I will have even more. Already I have killed these enemies, and soon I will kill the rest. I am the lord, the enjoyer, successful, happy, and strong, noble, and rich, and famous. Who on earth is my equal?”
 
