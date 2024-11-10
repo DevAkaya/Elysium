@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Main"
             }
+          },
+          {
+            "id": "bf4326d789f2c227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constitution of Alterra/NDAs/Main.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -143,19 +157,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "5bb4cca23f68138c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,26 +167,78 @@
   "right": {
     "id": "03d77a9c80017bfd",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "0ea349239d3b75ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7dc6e48b2bf655d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Constitution of Alterra/NDAs/Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Main"
+            }
+          },
+          {
+            "id": "7207e1c990e0edd1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3cf998d551b45a2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Constitution of Alterra/NDAs/Main.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Main"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 365.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "b86b8d982565c5f5",
+  "active": "bf4326d789f2c227",
   "lastOpenFiles": [
     "Constitution of Alterra/NDAs/Buffer.md",
     "Constitution of Alterra/NDAs/Main.md",
-    "Constitution of Alterra/NDAs",
     "Constitution of Alterra/Conduct Of Alterra.md",
+    "Constitution of Alterra/NDAs",
     "Constitution of Alterra/Etiquettes Of Human Sensibilities.md",
     "Constitution of Alterra/Rules Of Staff.md",
     "Constitution of Alterra/Rules Of Alterra.md",
