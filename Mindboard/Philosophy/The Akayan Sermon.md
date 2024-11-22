@@ -31,7 +31,7 @@ Upon this epiphany, the learned inquired, “O Exalted! From where is this hatre
 
 > Mental Reminder/Origin Of Story: You were thirsty for water one night and were upset about FOMO where you were reminded about a quote of planting the seeds. Expand and ponder further when free about the origin of human desire for ego, and it's destruction on the inner self (the self-atman -> Buddhi)
 
-O Jasper, Among my kind therein abided two great minds Yerxa and Erza, whose hearts yearned greatly for fruition. Their excellence and worth reached the heavens, Yet fate denied them praise and fruits of acknowledgement. Their minds were seized by drive and vigour, so they sought the seeds of an eternal state of contentment. In the distance, their eyes gazed upon an ocean of distinction, thereby laid water like sparkling silver and residing above them was a Dyson sphere like burning gold. Upon this horizon was the enchanting allure of success; its quintessence was endowed with the vibrant hues flowing through the hues of existence.
+O reader, Among my kind therein abided two great minds Yerxa and Erza, whose hearts yearned greatly for fruition. Their excellence and worth reached the heavens, Yet fate denied them praise and fruits of acknowledgement. Their minds were seized by drive and vigour, so they sought the seeds of an eternal state of contentment. In the distance, their eyes gazed upon an ocean of distinction, thereby laid water like sparkling silver and residing above them was a Dyson sphere like burning gold. Upon this horizon was the enchanting allure of success; its quintessence was endowed with the vibrant hues flowing through the hues of existence.
 
 As the days followed, cloven from the sight was the divergence of two paths. Victorious are they who remains steadfast in passion, humility, and stridence; such people propounded “Verily this is nothing more than fleeting desires” Indeed, whoever (Yerxa) inequitably seeks against that, then those are the vanquished themselves. Within the soul of Yerxa beholding despair grew ignorance, arrogance, and denial as he increasingly chased the enchanting allure of success. 
 
@@ -53,7 +53,9 @@ So if it was said to Akaya “from which ideological substrate is your neurotic 
 
 Propounded by your benefactor (The Demon) is the woeful; most corrosive affair that life is merely a biased accident, gushed forth by sexual desire, that verily the universe and its residents have no moral order, no truth, no spirituality, no God.  
   
-That the long-suffering and all mankind shall be driven by insatiable lusts and that mankind shall be drunk on (The: Unliberated) or tormented by the arrogance of power, the hypocritical, the deluded, the self-seeking. Tormented by a symphony of vast anxieties and suffering that continues until their death. 
+That the long-suffering and all of mankind shall be driven by insatiable lusts and that they (The: Unliberated) shall be drunk on or tormented by the arrogance of power, the hypocritical, the deluded, the self-seeking. Tormented by a symphony of vast anxieties and suffering that continues until their death. 
+
+A sickness (Literally: An idea pathogen) among them will seize the unliberated from which they propound 
 
 They are convinced that the gratification of desire is life's sole aim, bound by a hundred shackles of hope, enslaved by their greed, they squander their time dishonestly piling up mountains of wealth.  
   
