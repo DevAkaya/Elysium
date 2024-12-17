@@ -66,6 +66,7 @@ We reside in a dominion (Literally: The World) that is indeed bountiful in rewar
 
 
 
+
 -----------------
 -----
 
@@ -80,7 +81,6 @@ Mental reminder: This was by coincidence similar to dharma so explore the idea o
 O Exalted! Bestow onto me that which of which is not upheld in your dominion. 
 
 -------------------
-
 
 ---------------------
 --------------------
