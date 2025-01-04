@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "46ba980a4a51ab38",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "17b07753fd24aedb",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "20b46c8b2aeaebd6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,106 +19,9 @@
               },
               "icon": "lucide-file",
               "title": "The Akayan Sermon"
-            }
-          },
-          {
-            "id": "5e4b36cd612cf242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter/Story Opening.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Story Opening"
-            }
-          },
-          {
-            "id": "49d968c0f32b142a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter/Story Opening.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Story Opening"
-            }
-          },
-          {
-            "id": "b9b5890d749dadca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Akayan Sermon"
-            }
-          },
-          {
-            "id": "cf92b2c28c20ae8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Akayan Sermon"
-            }
-          },
-          {
-            "id": "b86b8d982565c5f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Akayan Sermon"
-            }
-          },
-          {
-            "id": "53591909a03bbd88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Akayan Sermon"
-            }
-          },
-          {
-            "id": "4cbe55b0db6e7e70",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,8 +79,18 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3eddd6d2fa0be9e2",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -191,16 +104,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8a493cebc63c1ee",
+        "id": "c37a4b828f3dd05b",
         "type": "tabs",
         "children": [
           {
-            "id": "292ba235066e01ad",
+            "id": "bab5c72ad86ef366",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
+                "file": "Mindboard/Philosophy/Sapience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,11 +123,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Akayan Sermon"
+              "title": "Backlinks for Sapience"
             }
           },
           {
-            "id": "677ad3d220097b6d",
+            "id": "6ad60ab54c9de248",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -228,53 +141,81 @@
             }
           },
           {
-            "id": "a76d133c791a39a5",
+            "id": "b16220cee13b769e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mindboard/Philosophy/The Akayan Sermon.md"
+                "file": "Mindboard/Philosophy/Sapience.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Akayan Sermon"
+              "title": "Outline of Sapience"
+            }
+          },
+          {
+            "id": "5d8b0f1b724af0d6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6aa22590b438fdb4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false
+      "homepage:Open homepage": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4cbe55b0db6e7e70",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Mindboard/Philosophy/Sapience.md",
-    "Constitution of Alterra/Rules Of Staff.md",
+    "Mindboard/Philosophy/Ex Materia.md",
+    "Mindboard/Philosophy/The Akayan Sermon.md",
+    "Constitution of Alterra/Rules Of Alterra.md",
+    "Constitution of Alterra/Non Lore Preface.md",
     "Constitution of Alterra/NDAs/Main.md",
+    "Footnotes-Readme.md",
+    "Chapters/Chapter/Story Opening.md",
+    "Mindboard/Government/Candidates/Sunshine Patriots.md",
+    "Mindboard/Government/Candidates",
+    "Mindboard/Philosophy/Philosophy Of The Universe.md",
+    "Mindboard/Civilisations/Akaya/Genesis.md",
+    "Mindboard/Government",
+    "Mindboard/Civilisations/Akaya/Government Of Alterra.md",
+    "Constitution of Alterra/Rules Of Staff.md",
     "Constitution of Alterra/NDAs/Buffer.md",
     "Constitution of Alterra/NDAs",
     "Constitution of Alterra/Conduct Of Alterra.md",
     "Constitution of Alterra/Etiquettes Of Human Sensibilities.md",
-    "Constitution of Alterra/Rules Of Alterra.md",
-    "Constitution of Alterra/Non Lore Preface.md",
     "Manifesto/Prelude.md",
-    "Mindboard/Philosophy/Ex Materia.md",
-    "Mindboard/Philosophy/The Akayan Sermon.md",
-    "Mindboard/Philosophy/Philosophy Of The Universe.md",
-    "Mindboard/Philosophy/Footnotes-Readme.md",
-    "Chapters/Chapter/Story Opening.md",
     "Manifesto",
     "Mindboard/Civilisations/Drawing 2024-02-15 10.24.19.excalidraw.md",
-    "Mindboard/Civilisations/Akaya/Genesis.md",
     "Mindboard/Plot/Time Processes.md",
     "Mindboard/Plot/Speech Draft.md",
     "Mindboard/Characters/The Creator.md",
@@ -285,8 +226,6 @@
     "Excalidraw",
     "Mindboard/Plot/Untitled mindmap.md",
     "Mindboard/Characters/Jasper.md",
-    "Chapters/Chapter/Manuscript Style 1 Old.md",
-    "Game Loop.md",
     "Untitled.canvas",
     "Mindboard/Philosophy/Untitled",
     "Mindboard/Plot/Canvas.canvas",

@@ -61,7 +61,7 @@ They are convinced that the gratification of desire is life's sole aim, bound by
   
 "Today I got this desire, and tomorrow I will get that one; all these riches are mine, and soon I will have even more. Already I have killed these enemies, and soon I will kill the rest.”
 
-We reside in a dominion (Literally: The World) that is indeed bountiful in reward to the tyrants and the sociopaths (Including the latter). Thereby, you will surely find multitudes of people who are stricken with ignorance, the ego, and foolishness; These are animals who are patrons to only themselves. Thereby, this is a writing of which it's substrates are nested in Akaya's ideology founded upon his philosophical pillars.  
+We reside in a dominion (Literally: The World) that is indeed bountiful in reward to the tyrants and the sociopaths (Including the latter). Thereby, you will surely find multitudes of people who are stricken with ignorance, the ego, and foolishness; These are animals who are patrons to only themselves. Thereby, this is a writing of which it's substrates are nested in Akaya's ideology founded upon his philosophical pillars. 
 
 
 
