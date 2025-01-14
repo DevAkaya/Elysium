@@ -5,5 +5,6 @@
   "communityPluginSortOrder": "release",
   "promptDelete": false,
   "showInlineTitle": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showRibbon": false
 }

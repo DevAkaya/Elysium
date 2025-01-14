@@ -1,5 +1,5 @@
 
-Description: Jasper is a 16-year-old teenage boy who's a computational physics' student studying at the Institute of Stellaris. Japser is someone destined for a great future ahead, being blessed in almost all areas of life, although Jasper is very open-minded he's an extreme patriot of Alterra that is angered by the slight objection to his homeland. His good looks and beautiful charming personality is unlike anything else.
+Description: Luca is a 19-year-old male who's a computational physics' student studying at the Institute of Stellaris. Luca is someone destined for a great future ahead, being blessed in almost all areas of life, although Jasper is very open-minded he's an extreme patriot of Alterra that is angered by the slight objection to his homeland. His good looks and beautiful charming personality is unlike anything else.
 
 Height: 6ft
 Sexuality: Bisexual

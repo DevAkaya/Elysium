@@ -7,5 +7,6 @@
   "nativeMenus": false,
   "translucency": true,
   "monospaceFontFamily": "Raleway",
-  "textFontFamily": "Raleway"
+  "textFontFamily": "Raleway",
+  "showViewHeader": false
 }

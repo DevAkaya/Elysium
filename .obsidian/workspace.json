@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mindboard/Philosophy/The Akayan Sermon.md",
+                "file": "Source/Non-Lore/Constitution of Alterra/Ethics/Conduct Of Alterra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Akayan Sermon"
+              "title": "Conduct Of Alterra"
+            }
+          },
+          {
+            "id": "e41f21d2e10c2c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/Lore/Substratum/Civilisations/Alterra/Genesis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,30 +89,20 @@
             }
           },
           {
-            "id": "5bb4cca23f68138c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "3eddd6d2fa0be9e2",
             "type": "leaf",
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Smart Chat"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 232.5110321044922
+    "width": 476.5
   },
   "right": {
     "id": "03d77a9c80017bfd",
@@ -113,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindboard/Philosophy/Sapience.md",
+                "file": "Source/Lore/Substratum/Civilisations/Alterra/Genesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sapience"
+              "title": "Backlinks for Genesis"
             }
           },
           {
@@ -168,12 +173,12 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "smart-connections",
+              "title": "Smart Connections"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,44 +197,47 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e41f21d2e10c2c1b",
   "lastOpenFiles": [
-    "Mindboard/Philosophy/Sapience.md",
-    "Mindboard/Philosophy/Ex Materia.md",
-    "Mindboard/Philosophy/The Akayan Sermon.md",
-    "Constitution of Alterra/Rules Of Alterra.md",
-    "Constitution of Alterra/Non Lore Preface.md",
-    "Constitution of Alterra/NDAs/Main.md",
-    "Footnotes-Readme.md",
-    "Chapters/Chapter/Story Opening.md",
-    "Mindboard/Government/Candidates/Sunshine Patriots.md",
-    "Mindboard/Government/Candidates",
-    "Mindboard/Philosophy/Philosophy Of The Universe.md",
-    "Mindboard/Civilisations/Akaya/Genesis.md",
-    "Mindboard/Government",
-    "Mindboard/Civilisations/Akaya/Government Of Alterra.md",
-    "Constitution of Alterra/Rules Of Staff.md",
-    "Constitution of Alterra/NDAs/Buffer.md",
-    "Constitution of Alterra/NDAs",
-    "Constitution of Alterra/Conduct Of Alterra.md",
-    "Constitution of Alterra/Etiquettes Of Human Sensibilities.md",
-    "Manifesto/Prelude.md",
-    "Manifesto",
-    "Mindboard/Civilisations/Drawing 2024-02-15 10.24.19.excalidraw.md",
-    "Mindboard/Plot/Time Processes.md",
-    "Mindboard/Plot/Speech Draft.md",
-    "Mindboard/Characters/The Creator.md",
+    "Source/Lore/Substratum/Characters/Luca.md",
+    "Source/Lore/Substratum/Government/Case Studies/Sunshine Patriots.md",
+    "Source/Non-Lore/Constitution of Alterra/Non Disclosure Agreement/Main.md",
+    "Source/Non-Lore/Manifesto/Prelude.md",
+    "Source/Lore/Substratum/Philosophy/Ex Materia.md",
+    "Source/Lore/Substratum/Philosophy/Sapience.md",
+    "Source/Lore/Substratum/Locations/Stellar System.md",
+    "Source/Lore/Substratum/Locations/Rosetta Nebula/Untitled.md",
+    "Source/Lore/Substratum/Locations/Rosetta Nebula",
+    "Source/Non-Lore/Games/Game Loop.md",
+    "Source/Non-Lore/Constitution of Alterra/Ethics/Non Lore Preface.md",
+    "Source/Non-Lore/Constitution of Alterra/Ethics/Conduct Of Alterra.md",
+    "Source/Non-Lore/Constitution of Alterra/Ethics/Rules Of Staff.md",
+    "Source/Non-Lore/Constitution of Alterra/Ethics/Etiquettes Of Human Sensibilities.md",
+    "Source/Non-Lore/Constitution of Alterra/Ethics",
+    "Footnotes.md",
+    "Source/Elysium/Original/Chapters/Chapter 1.md",
+    "Source/Non-Lore/Games",
+    "Source/Elysium/Simplex/Chapters/Chapter 1.md",
+    "Source/Elysium/Simplex/Chapters",
+    "Source/Elysium/Original",
+    "Source/Elysium/Simplex",
+    "Source/Lore/Substratum/Philosophy/The Akayan Sermon.md",
+    "Source/Lore/Substratum/Plot/Time Processes.md",
+    "Source/Lore/Substratum/Plot/To-Do.md",
+    "Source/Lore/Substratum/Plot/Speech Draft.md",
+    "Source/Lore/Substratum/Plot/30 Questions.md",
+    "Excalidraw/Drawing 2025-01-05 15.31.53.excalidraw.md",
+    "Source/Elysium",
     "Excalidraw/Drawing 2023-12-09 17.26.34.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-06 16.25.47.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-06 16.23.49.excalidraw.md",
-    "Mindboard/Plot/Untitled.canvas",
-    "Excalidraw",
-    "Mindboard/Plot/Untitled mindmap.md",
-    "Mindboard/Characters/Jasper.md",
+    "Source/Non-Lore",
+    "Source/Lore",
+    "Source",
+    "Source/Non-Lore/Constitution of Alterra/Ethics/Rules Of Alterra.md",
+    "Mindboard/Philosophy/Philosophy Of The Universe.md",
+    "Source/Lore/Substratum/Civilisations/Akaya/Genesis.md",
+    "Source/Lore/Substratum/Plot/Untitled.canvas",
     "Untitled.canvas",
-    "Mindboard/Philosophy/Untitled",
     "Mindboard/Plot/Canvas.canvas",
-    "Constitution of Alterra",
     "Untitled 1.canvas"
   ]
 }

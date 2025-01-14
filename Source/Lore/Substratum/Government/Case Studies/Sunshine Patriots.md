@@ -55,7 +55,3 @@ The novel frequently grapples with ethical questions central to utopian politics
 ### **7. Campbell’s Critique and Vision**
 
 Through _Sunshine Patriots_, Bill Campbell critiques both the flaws of Earth’s systems—rampant capitalism, environmental degradation, and authoritarianism—and the inherent fragility of utopian experiments. The book serves as both a cautionary tale and an aspirational vision, encouraging readers to reflect on the complexities of building and sustaining a better world.
-
----
-
-If you'd like, I can dive deeper into specific elements like the role of AI, character dynamics, or Earth’s geopolitical influences in the novel!
