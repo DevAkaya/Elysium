@@ -17,7 +17,7 @@ So it was said to the objectional ones; Uphold peace and unity as a quintessence
 
 Jasper replied, “What is this nectar O Sage?” So he _smiled_ broadly, content at his speech, and propounded:
 
-Verily, it is this nectar's fragrance which takes multiple forms. Indeed, cloven from the fragrance of this nectar is the liberation of oneself from the wickedness of life. From the early dawn of humankind; liberated were those among you who's thinking rose beyond the nationalist borders of their nations. Surely, it is the prosperity of the mind that is found in liberation from the ignorance of humankind, and it's arrogance. Devoid of liberation, where those who indulged their minds with transgressions of their forefathers. Such were those who valued the enterprise over humanity, dogma over truth and racism over unity. They enveloped themselves in arrogance outwardly, but inwards we're truly in despair. 
+Verily, it is this nectar's fragrance which takes multiple forms. Indeed, cloven from the fragrance of this nectar is the liberation of oneself from the wickedness of life. From the early dawn of humankind; #liberated were those among you who's thinking rose beyond the nationalist borders of their nations. Surely, it is the prosperity of the mind that is found in liberation from the ignorance of humankind, and it's arrogance. Devoid of liberation, where those who indulged their minds with transgressions of their forefathers. Such were those who valued the enterprise over humanity, dogma over truth and racism over unity. They enveloped themselves in arrogance outwardly, but inwards we're truly in despair. 
 
 
 Upon this epiphany, the learned inquired, “O Exalted! From where is this hatred and ignorance rented asunder?” Indeed, those among you emotional devotionalism [continue pondering and brainstorm ideas of this origin for emotional devotionalism]
@@ -53,7 +53,7 @@ So if it was said to Akaya “from which ideological substrate is your neurotic 
 
 Propounded by your benefactor (The Demon) is the woeful; most corrosive affair that life is merely a biased accident, gushed forth by sexual desire, that verily the universe and its residents have no moral order, no truth, no spirituality, no God.  
   
-That the long-suffering and all of mankind shall be driven by insatiable lusts and that they (The: Unliberated) shall be drunk on or tormented by the arrogance of power, the hypocritical, the deluded, the self-seeking. Tormented by a symphony of vast anxieties and suffering that continues until their death. 
+That the long-suffering and all of the mankind shall be driven by insatiable lusts and that they (The: Unliberated) shall be drunk on or tormented by the arrogance of power, the hypocritical, the deluded, the self-seeking. Tormented by a symphony of vast anxieties and suffering that continues until their death. 
 
 A sickness (Literally: An idea pathogen) among them will seize the unliberated from which they propound 
 
@@ -72,7 +72,7 @@ We reside in a dominion (Literally: The World) that is indeed bountiful in rewar
 
 The Wheel Of Validation 
 
-Behold! Within thy heavens will you find not someone inflicted with the lust of validation. Seek refuge from thy which consumed [[The Creator]] Indeed those among you who live by validation and praise will perish from it's cessation.
+Behold! Within thy heavens will you find not someone inflicted with the lust of validation. Seek refuge from thy which consumed [[The Creator]] Indeed those among you who live by validation and praise will perish from its cessation.
 
 The Divine Pendulum 
 
@@ -94,3 +94,11 @@ An individual's internal outlook and destiny is chained to the extent of his bel
 Therein mankind will you find such a grave and hidden illness withheld from the eyes of the common folk that are informed not. Indeed, it is they who are negligent in their compassion that creates a society devoid of harmony. Within such a society is a biased distribution of injustice. The perpetrators of this injustice were those who were denied affection from their benefactors. And who is more among the unjust than he who fabricates this deviation of social affection. 
 
 Herein, among the criminals and tyrants, you will find multitudes of tormented souls who permitted for themselves a kindling of darkness. You will not find any people among them who embraced _affection_ for the ones who contravene their transgressions.  O Learned! Be merciful onto those deprived of mercy, and lower to them the wings of rehabilitation out of mercy, for indeed your blaze of scarring vengeance will be annihilated. Among the societies that upheld this judiciary prevailed in their reformations like the Scandinavian nations. 
+
+
+----
+----
+
+# <u> The Sanctity of Life </u>
+
+Write a philosophical piece on the nature of the criminal mind.

@@ -4,7 +4,7 @@ I hereby declare that, as my mind wanes and the potential end of my journey on E
 
 Multitudes of thy writings proceeds my book Elysium. The largest non-technological production I author in my lifetime. A Science-Fiction writing thereof is the quintessential signature of my essence and the lore of my game studio; Alterra.
 
-We reside in a dominion (Literally: The World) that is indeed bounteous in reward to the tyrants and the sociopaths (Including the latter). Therin, you will surely find multitudes of people who are stricken with ignorance and foolishness; These are heathens who are patrons to only themselves. Thereby, this is a book of which it's substrates are nested in my ideology founded upon my philosophical pillars.  
+We reside in a dominion (Literally: The World) that is indeed bounteous in reward to the tyrants and the sociopaths (Including the latter). Therein, you will surely find multitudes of people who are stricken with ignorance and foolishness; These are heathens who are patrons to only themselves. Thereby, this is a book of which it's substrates are nested in my ideology founded upon my philosophical pillars.  
 
 Verily, this is a writing which will invoke discord among multitudes of souls. I shall indeed receive.  
 

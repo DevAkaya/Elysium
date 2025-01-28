@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source/Non-Lore/Constitution of Alterra/Ethics/Conduct Of Alterra.md",
+                "file": "Source/Lore/Substratum/Akaya/Philosophy/Ex Materia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conduct Of Alterra"
-            }
-          },
-          {
-            "id": "e41f21d2e10c2c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Source/Lore/Substratum/Civilisations/Alterra/Genesis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis"
+              "title": "Ex Materia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,8 +52,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#Atonement",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,15 +79,15 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 320.5
   },
   "right": {
     "id": "03d77a9c80017bfd",
@@ -173,8 +158,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -193,48 +178,51 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "homepage:Open homepage": false,
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e41f21d2e10c2c1b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Source/Lore/Substratum/Characters/Luca.md",
-    "Source/Lore/Substratum/Government/Case Studies/Sunshine Patriots.md",
+    "Source/Lore/Substratum/Akaya/Oracle/About.md",
+    "Drawing 2025-01-17 11.59.05.excalidraw.md",
+    "Untitled.md",
+    "Source/Lore/Substratum/Civilisations/Elysia/Genesis.md",
+    "Start here.md",
+    "Source/Lore/Substratum/Locations/Stellaris, Kingdom Of Akaya/Places Of Interest/Jokic Auditorium.md",
+    "Oracle.md",
+    "Source/Non-Lore/Constitution of Alterra/Guide/Oracle Of Alterra.md",
+    "Source/Lore/Substratum/Akaya/Philosophy/The Akayan Sermon.md",
+    "Source/Lore/Substratum/Akaya/Oracle",
     "Source/Non-Lore/Constitution of Alterra/Non Disclosure Agreement/Main.md",
-    "Source/Non-Lore/Manifesto/Prelude.md",
-    "Source/Lore/Substratum/Philosophy/Ex Materia.md",
-    "Source/Lore/Substratum/Philosophy/Sapience.md",
-    "Source/Lore/Substratum/Locations/Stellar System.md",
-    "Source/Lore/Substratum/Locations/Rosetta Nebula/Untitled.md",
-    "Source/Lore/Substratum/Locations/Rosetta Nebula",
-    "Source/Non-Lore/Games/Game Loop.md",
-    "Source/Non-Lore/Constitution of Alterra/Ethics/Non Lore Preface.md",
-    "Source/Non-Lore/Constitution of Alterra/Ethics/Conduct Of Alterra.md",
-    "Source/Non-Lore/Constitution of Alterra/Ethics/Rules Of Staff.md",
-    "Source/Non-Lore/Constitution of Alterra/Ethics/Etiquettes Of Human Sensibilities.md",
-    "Source/Non-Lore/Constitution of Alterra/Ethics",
-    "Footnotes.md",
+    "Source/Non-Lore/Games/Proximus",
     "Source/Elysium/Original/Chapters/Chapter 1.md",
-    "Source/Non-Lore/Games",
+    "Source/Non-Lore/Manifesto/The Author.md",
+    "Source/Non-Lore/Constitution of Alterra/Guide",
+    "Source/Lore/Substratum/Characters/Luca.md",
+    "Source/Lore/Substratum/Locations/Rosetta Nebula/Untitled.md",
+    "Assets/Images/IMG-20241214-WA0008_2.jpg",
+    "Source/Lore/Substratum/Entities",
+    "Source/Lore/Substratum/Locations/Stellaris, Kingdom Of Akaya/Places Of Interest/The Institute Of Stellaris.md",
+    "Source/Non-Lore/Manifesto/Untitled",
     "Source/Elysium/Simplex/Chapters/Chapter 1.md",
-    "Source/Elysium/Simplex/Chapters",
-    "Source/Elysium/Original",
-    "Source/Elysium/Simplex",
-    "Source/Lore/Substratum/Philosophy/The Akayan Sermon.md",
-    "Source/Lore/Substratum/Plot/Time Processes.md",
-    "Source/Lore/Substratum/Plot/To-Do.md",
+    "Source/Non-Lore/Manifesto/Prelude.md",
+    "Source/Lore/Substratum/Locations/Stellaris, Kingdom Of Akaya/Places Of Interest",
+    "Source/Non-Lore/Games/Game Loop.md",
+    "Source/Lore/Substratum/Akaya/Policies/Society.md",
+    "Source/Lore/Substratum/Akaya/Policies/Law And Juctice.md",
+    "Source/Lore/Substratum/Akaya/Policies/Education.md",
+    "Source/Lore/Substratum/Akaya/Policies/Index.md",
+    "Source/Lore/Substratum/Akaya/Policies/International Relations.md",
+    "Source/Lore/Substratum/Akaya/Policies/Culture.md",
+    "Source/Lore/Substratum/Akaya/Policies/Subsidies.md",
+    "Source/Utils",
     "Source/Lore/Substratum/Plot/Speech Draft.md",
-    "Source/Lore/Substratum/Plot/30 Questions.md",
-    "Excalidraw/Drawing 2025-01-05 15.31.53.excalidraw.md",
-    "Source/Elysium",
-    "Excalidraw/Drawing 2023-12-09 17.26.34.excalidraw.md",
-    "Source/Non-Lore",
-    "Source/Lore",
-    "Source",
-    "Source/Non-Lore/Constitution of Alterra/Ethics/Rules Of Alterra.md",
-    "Mindboard/Philosophy/Philosophy Of The Universe.md",
-    "Source/Lore/Substratum/Civilisations/Akaya/Genesis.md",
+    "Source/Lore/Substratum/Government/Policies/Untitled",
+    "Source/Lore/Substratum/Government/Policies/Judicial",
+    "Source/Lore/Substratum/Government/Policies/Subsidies",
     "Source/Lore/Substratum/Plot/Untitled.canvas",
     "Untitled.canvas",
     "Mindboard/Plot/Canvas.canvas",
