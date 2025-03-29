@@ -8,5 +8,6 @@
   "translucency": true,
   "monospaceFontFamily": "Raleway",
   "textFontFamily": "Raleway",
-  "showViewHeader": false
+  "showViewHeader": false,
+  "showRibbon": false
 }
