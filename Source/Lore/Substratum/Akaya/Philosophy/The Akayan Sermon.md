@@ -99,6 +99,5 @@ Herein, among the criminals and tyrants, you will find multitudes of tormented s
 ----
 ----
 
-# <u> The Sanctity of Life </u>
 
-Write a philosophical piece on the nature of the criminal mind.
+

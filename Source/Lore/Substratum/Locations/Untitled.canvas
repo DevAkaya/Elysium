@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3bb9bb267442f406","type":"text","text":"# Avidya","x":58,"y":-263,"width":240,"height":80},
+		{"id":"9fc65ee6aacdd0a0","type":"text","text":"# Ionia","x":-552,"y":104,"width":200,"height":80}
+	],
+	"edges":[]
+}

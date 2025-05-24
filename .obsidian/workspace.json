@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d31a4d93a275ba42",
+    "type": "split",
+    "children": [
+      {
+        "id": "9633c11e0219a085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532ff08480f89c8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "62d48ec1e6105af5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5260e6bf47d99028",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb56f34da4550a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "168bf5be6f3b574e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc0dff6a444b0f51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8866e833b9b3f15a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aef75d5ef777c233",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "05a2a3f3dee6c28e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Source/Elysium/Original/Chapters/Chapter 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 1"
+            }
+          },
+          {
+            "id": "22f2424f067b0ea1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Source/Lore/Substratum/Akaya/Philosophy/Akayan Universal Rights.md",
+    "Source/Lore/Substratum/Akaya/Philosophy/Sapience.md",
+    "Source/Lore/Substratum/Akaya/Philosophy/The Akayan Sermon.md",
+    "Source/Non-Lore/Constitution of Alterra/Non Disclosure Agreement/Main.md",
+    "Source/Non-Lore/Constitution of Alterra/Ethics/Rules Of Staff.md",
+    "Source/Non-Lore/Games/Game Loop.md",
+    "Source/Non-Lore/Manifesto/Prelude.md",
+    "Source/Non-Lore/Manifesto/The Author.md",
+    "Start here.md",
+    "Source/Non-Lore/Constitution of Alterra/Ethics/Rules Of Alterra.md",
+    "Source/Non-Lore/Constitution of Alterra/Ethics/Non Lore Preface.md",
+    "Source/Non-Lore/Constitution of Alterra/Ethics/Etiquettes Of Human Sensibilities.md",
+    "Source/Non-Lore/Constitution of Alterra/Ethics/Conduct Of Alterra.md",
+    "Source/Lore/Substratum/Civilisations/Alterra/Genesis.md",
+    "Source/Lore/Substratum/Locations/Untitled.canvas",
+    "Source/Elysium/Original/Chapters/Chapter 1.md",
+    "Source/Lore/Substratum/Characters/The Creator.md",
+    "Source/Lore/Substratum/Plot/30 Questions.md",
+    "Source/Lore/Substratum/Plot/Speech Draft.md",
+    "Source/Lore/Substratum/Akaya/Oracle/About.md",
+    "Source/Lore/Substratum/Akaya/Policies/Law And Juctice.md",
+    "Source/Lore/Substratum/Characters/Luca.md"
+  ]
+}

@@ -21,6 +21,8 @@ As the vessel reaches it's lawful destination. It's empuzzling nature is made cl
 With a mighty roar from the heavens, the spaceship descends in the centre of the city. The ground trembles beneath its weight, and a cloud of dust and debris fills the air. The Citizens of Alterra can only wait with an abrupted breath to see what this mirage has in store for them.
 
 
+
+
 ![[Pasted image 20220902052542.png]]
 
 
