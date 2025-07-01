@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Source/Lore/Substratum/Akaya/Philosophy/Sermons/The Nectar Of Juctice.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Nectar Of Juctice"
             }
           }
         ]
@@ -183,9 +187,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Source/Lore/Substratum/Akaya/Philosophy/Akayan Universal Rights.md",
-    "Source/Lore/Substratum/Akaya/Philosophy/Sapience.md",
+    "Source/Lore/Substratum/Akaya/Philosophy/Sermons/The Chapter Of Cynicism.md",
+    "Source/Lore/Substratum/Akaya/Philosophy/Sermons/Atonement Of The Forefathers.md",
+    "Source/Lore/Substratum/Akaya/Philosophy/Sermons/The Nectar Of Juctice.md",
     "Source/Lore/Substratum/Akaya/Philosophy/The Akayan Sermon.md",
+    "Source/Lore/Substratum/Akaya/Philosophy/Ideals/Akayan Universal Rights.md",
+    "Source/Lore/Substratum/Akaya/Philosophy/Ideals/Sapience.md",
+    "Source/Lore/Substratum/Akaya/Philosophy/Creation Story",
+    "Source/Lore/Substratum/Akaya/Philosophy/Ideals",
+    "Source/Lore/Substratum/Akaya/Philosophy/Sermons",
+    "Source/Lore/Substratum/Civilisations/Elysia/Genesis.md",
     "Source/Non-Lore/Constitution of Alterra/Non Disclosure Agreement/Main.md",
     "Source/Non-Lore/Constitution of Alterra/Ethics/Rules Of Staff.md",
     "Source/Non-Lore/Games/Game Loop.md",

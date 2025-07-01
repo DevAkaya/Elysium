@@ -1,0 +1,9 @@
+Let the pillar of morality be based from the wellbeing And to among who object its objectivity. Say "O Reader! Foolish is the one who seeks beyond what governs the physical being; for it is without this wellbeing that the physical being itself ceases.”
+
+As you find yourself in servitude to man, beware of the attachment to the fruits of your servitude. Verily, those who seized their efforts only for the fruits of their servitude will eventually find themselves in pure disbelief and pain.
+
+An individual's internal outlook and destiny is chained to the extent of his belief. The one who performs his rightful servitude in fear and nervousness has created for himself his own chain.
+
+Therein mankind will you find such a grave and hidden illness withheld from the eyes of the common folk that are informed not. Indeed, it is they who are negligent in their compassion that creates a society devoid of harmony. Within such a society is a biased distribution of injustice. The perpetrators of this injustice were those who were denied affection from their benefactors. And who is more among the unjust than he who fabricates this deviation of social affection. 
+
+Herein, among the criminals and tyrants, you will find multitudes of tormented souls who permitted for themselves a kindling of darkness. You will not find any people among them who embraced _affection_ for the ones who contravene their transgressions.  O Learned! Be merciful onto those deprived of mercy, and lower to them the wings of rehabilitation out of mercy, for indeed your blaze of scarring vengeance will be annihilated. Among the societies that upheld this judiciary prevailed in their reformations like the Scandinavian nations. 
