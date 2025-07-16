@@ -28,6 +28,6 @@ DOA Shall:
 
 > EPP should be given facilities by DOA (through causes and innovation) to allow every EPP their right to Central Capabilities and anticipated experiences. Such example is allowing every human being to seek balanced work life and leisure.
 
-- Access and facilitation of EEP to find connection, affection, love, and intimacy.  (Self Person Project for example)
+- Access and facilitation of EPP to find connection, affection, love, and intimacy.  (Self Person Project for example)
 - Within DOA all personnel must be able and facilitated to change locations freely, in addition to, having sovereignty over one’s body which includes being secure against assault (for example, sexual assault, child sexual abuse, domestic violence and the opportunity for sexual satisfaction).
 
