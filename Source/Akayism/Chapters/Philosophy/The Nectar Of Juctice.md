@@ -1,4 +1,4 @@
-Let the pillar of morality be based from the wellbeing And to among who object its objectivity. Say "O Reader! Foolish is the one who seeks beyond what governs the physical being; for it is without this wellbeing that the physical being itself ceases.”
+Let the pillar of morality be based from the wellbeing And to among those who object its objectivity. Say "O Reader! Foolish is the one who seeks beyond what governs the physical being; for it is without this wellbeing that the physical being itself ceases.”
 
 As you find yourself in servitude to man, beware of the attachment to the fruits of your servitude. Verily, those who seized their efforts only for the fruits of their servitude will eventually find themselves in pure disbelief and pain.
 

@@ -1,4 +1,4 @@
-- Surely, under Akaya's ideals are we liberated from bad actors. Under Akaya and his kingdom we shall never be oppressed nor shall we be colonised from the unliberated; in spirit or purpose. 
+- Surely, under Akaya's ideals are we liberated from bad actors. Under Akaya and his dominion we shall never be oppressed nor shall we be colonised from the unliberated; in spirit or purpose. 
 
 - So do not engage in wrangling about what these (unliberated) embellish; in no way do they embellish (anything) except as their benefactors (the unliberated) embellished earlier; and surely we (the liberated) will indeed penalize them in full their assignment undiminished.
 
@@ -21,7 +21,7 @@ Such rebellion to Akaya's quintessence are:
 14. Nihilistic Works (Radical Atheism)
 15. Oligarchy
 16. Postmodernism (Extreme Relativism)
-17. Religious Fundamentalism (Islamism, Hindu Nationalism, Bible bashers)
+17. Religious Fundamentalism (Radical Islam, Hindu Nationalism, Bible bashers)
 18. Steampunk
 19. TikTok Brain (slang, brain rot, hood culture, herd mentality)
 20. Wokism
