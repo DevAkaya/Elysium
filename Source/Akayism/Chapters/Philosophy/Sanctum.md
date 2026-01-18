@@ -1,4 +1,4 @@
-## **The following extracts from Elysium presents my topic on peace being the quintessence of a prosperous society. Enjoy!**
+## **The following extracts from Elysium presents my topic on peace being the quintessence of a prosperous society.**
 
 Prosperous were the ones who made peace the essence of their society. These were the biggest fruits from your forefathers. Verily, nothing is more exalted upon a blessed nation than peace (Literally: The Quintessence). Wonderous is the matter of peace, for it is surely the most blissful contribution to the welfare and rights of every being. Indeed, peace is the desire of every heart, the hope of every nation and dominion, the promise of every politician; honest or deceitful, a pillar of every supplication and the outward beat of every religious agenda, Peace is the ultimate response and antagonist to many evils and suffering in life. Where evil, corrupts, destroys and tears apart, peace strengthens and restores. 
 
