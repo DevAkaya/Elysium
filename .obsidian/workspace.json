@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Source/Akayism/Chapters/Philosophy/Bleeding Of Akaya.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bleeding Of Akaya"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#liberated",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 366.5
   },
   "right": {
     "id": "cb56f34da4550a50",
@@ -168,6 +172,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -176,21 +182,30 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Source/Akayism/Chapters/Philosophy/The Decree of the Feminine Condition.md",
-    "Source/Akayism/Chapters/Philosophy/The Nectar Of Juctice.md",
+    "Source/Akayism/Chapters/Philosophy/1. Sanctum.md",
+    "Source/Akayism/Chapters/Philosophy/Bleeding Of Akaya.md",
+    "Source/Akayism/Chapters/Philosophy/2. The Chapter Of Cynicism.md",
+    "Source/Akayism/Chapters/Philosophy/3. The Nectar Of Juctice.md",
+    "Source/Akayism/Chapters/Philosophy/5. The Biased Distribution.md",
+    "Source/Akayism/Chapters/Philosophy/6. The Decree of the Feminine Condition.md",
+    "Source/Akayism/Chapters/Philosophy/Amori.md",
+    "Source/Akayism/Chapters/Philosophy/4. The Tyranny of Form.md",
+    "Untitled.canvas",
+    "Pasted image 20260411063509.png",
+    "Pasted image 20260410154419.png",
+    "Pasted image 20260410154400.png",
+    "Pasted image 20260410154352.png",
+    "Source/Akayism/Ideals/Akayan Universal Rights.md",
     "Source/Akayism/Chapters/Philosophy/Technologia.md",
-    "Source/Akayism/Chapters/Philosophy/The Chapter Of Cynicism.md",
+    "Source/Akayism/Chapters/Philosophy/The Withering Flower.md",
     "Source/Akayism/Chapters/Philosophy/The Two Great Minds.md",
     "Source/Akayism/Chapters/Philosophy/The Wheel Of Validation.md",
-    "Source/Akayism/Chapters/Philosophy/The Tyranny of Form.md",
     "Source/Akayism/Ideals/Ex Materia.md",
     "Source/Akayism/Ideals/Sapience.md",
     "Source/Non-Lore/Constitution of Alterra/Ethics/Rules Of Staff.md",
@@ -203,13 +218,6 @@
     "Source/Akayism/Sectors/Civilisational/International Relations.md",
     "Source/Akayism/Sectors/Civilisational/Education.md",
     "Source/Akayism/Sectors/Civilisational/Culture.md",
-    "Source/Akayism/Ideals/Akayan Universal Rights.md",
-    "Source/Akayism/Chapters/Philosophy/Sanctum.md",
-    "Source/Akayism/Chapters/Philosophy/Amori.md",
-    "Source/Lore/Elysium/Original/Chapters/Chapter 1.md",
-    "Source/Akayism/Chapters/Philosophy/The Withering Flower.md",
-    "Source/Akayism/Sectors/About.md",
-    "Source/Akayism/Sectors/Civilisational/Society.md",
     "Source/Akayism/Chapters/Philosophy/Untitled",
     "Source/Akayism/Sectors/Life",
     "Source/Akayism/Sectors/Civilisational",
