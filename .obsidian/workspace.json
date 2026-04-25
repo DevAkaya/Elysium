@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Source/Akayism/Chapters/Philosophy/Bleeding Of Akaya.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bleeding Of Akaya"
+              "title": "New tab"
             }
           }
         ]
@@ -188,22 +184,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Source/Akayism/Chapters/Philosophy/1. Sanctum.md",
-    "Source/Akayism/Chapters/Philosophy/Bleeding Of Akaya.md",
+    "Source/Akayism/Chapters/Philosophy/7. Bleeding Of Akaya.md",
+    "Source/Akayism/Chapters/Philosophy/6. The Decree of the Feminine Condition.md",
     "Source/Akayism/Chapters/Philosophy/2. The Chapter Of Cynicism.md",
     "Source/Akayism/Chapters/Philosophy/3. The Nectar Of Juctice.md",
-    "Source/Akayism/Chapters/Philosophy/5. The Biased Distribution.md",
-    "Source/Akayism/Chapters/Philosophy/6. The Decree of the Feminine Condition.md",
-    "Source/Akayism/Chapters/Philosophy/Amori.md",
     "Source/Akayism/Chapters/Philosophy/4. The Tyranny of Form.md",
+    "Source/Akayism/Chapters/Philosophy/Amori.md",
+    "Source/Akayism/Chapters/Philosophy/The Withering Flower.md",
+    "Source/Akayism/Chapters/Philosophy/5. The Biased Distribution.md",
+    "Source/Akayism/Chapters/Philosophy/1. Sanctum.md",
     "Untitled.canvas",
     "Pasted image 20260411063509.png",
     "Pasted image 20260410154419.png",
-    "Pasted image 20260410154400.png",
     "Pasted image 20260410154352.png",
+    "Pasted image 20260410154400.png",
+    "Source/Lore/Elysium/Original/Chapters/Chapter 1.md",
     "Source/Akayism/Ideals/Akayan Universal Rights.md",
     "Source/Akayism/Chapters/Philosophy/Technologia.md",
-    "Source/Akayism/Chapters/Philosophy/The Withering Flower.md",
     "Source/Akayism/Chapters/Philosophy/The Two Great Minds.md",
     "Source/Akayism/Chapters/Philosophy/The Wheel Of Validation.md",
     "Source/Akayism/Ideals/Ex Materia.md",
@@ -217,7 +214,6 @@
     "Source/Akayism/Sectors/Index.md",
     "Source/Akayism/Sectors/Civilisational/International Relations.md",
     "Source/Akayism/Sectors/Civilisational/Education.md",
-    "Source/Akayism/Sectors/Civilisational/Culture.md",
     "Source/Akayism/Chapters/Philosophy/Untitled",
     "Source/Akayism/Sectors/Life",
     "Source/Akayism/Sectors/Civilisational",
